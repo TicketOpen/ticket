@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Feb 2025 07:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 08:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 너의 목소리가 들려]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54429</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54429</guid>
+            <pubDate>Fri, 14 Feb 2025 15:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.17
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23016780_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2025 앤서니브라운 가족뮤지컬〈우리아빠가최고야〉 -청주]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54422</link>
@@ -24,15 +33,6 @@
             <content:encoded><![CDATA[2025.02.17
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002008_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 너의 목소리가 들려]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54429</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54429</guid>
-            <pubDate>Fri, 14 Feb 2025 15:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.17
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23016780_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈종의 기원〉]]></title>
