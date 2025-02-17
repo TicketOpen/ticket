@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-02-17T04:11:40.340Z</updated>
+    <updated>2025-02-17T05:11:03.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 정해인 앵콜 팬미팅 ‘OUR TIME - HBD’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9989</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9989"/>
+        <updated>2025-02-17T05:09:37.717Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[얼리버드] 아르누보의 꽃 : 알폰스 무하 원화전 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9988</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9988"/>
+        <updated>2025-02-17T05:09:37.743Z</updated>
+        <content type="html"><![CDATA[2025.02.19(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윈디시티 단독 콘서트 ‘Love, Power and Unity’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9986</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9978"/>
         <updated>2025-02-17T04:10:27.697Z</updated>
         <content type="html"><![CDATA[2025.02.19(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈전기뱀장어 단독 콘서트 ‘행운을 드려요’ : 롤링 30주년 기념 공연〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9977</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9977"/>
-        <updated>2025-02-17T04:10:27.700Z</updated>
-        <content type="html"><![CDATA[2025.02.19(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕하세요 깅지원입니다 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9976</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9976"/>
-        <updated>2025-02-17T04:10:27.704Z</updated>
-        <content type="html"><![CDATA[2025.02.14(금) 18:00]]></content>
     </entry>
 </feed>
