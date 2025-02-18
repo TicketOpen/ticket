@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 03:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 04:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9982</guid>
             <pubDate>Mon, 17 Feb 2025 23:08:07 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.21(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HRC.GEN.BA.(개구리가 일어났어요) (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54503&amp;groupno=54503&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54503&amp;groupno=54503&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 18 Feb 2025 04:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[25.02.21(금)&nbsp;12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 사랑해 엄마 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54502&amp;groupno=54502&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54502&amp;groupno=54502&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 18 Feb 2025 04:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[25.02.21(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오페라가 들리는 48시간 이탈리아 여행 - 서울 (인터파크 티켓)]]></title>
@@ -167,20 +181,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54486&amp;groupno=54486&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 17 Feb 2025 05:09:46 GMT</pubDate>
             <content:encoded><![CDATA[25.02.20(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[〈THE이재훈_31년〉 단독 콘서트 광주공연 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54485&amp;groupno=54485&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54485&amp;groupno=54485&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 17 Feb 2025 05:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[25.02.21(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정명훈 x KBS교향악단 x 선우예권 - 용인 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54484&amp;groupno=54484&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54484&amp;groupno=54484&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 17 Feb 2025 05:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[25.02.19(수)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈명성황후〉 30주년 기념 공연 (인터파크 티켓)]]></title>
