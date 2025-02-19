@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 23:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 00:38:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 ＂천년의 불꽃, 김유신＂]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54520</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54520</guid>
+            <pubDate>Wed, 19 Feb 2025 00:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.19
+                                    <span>00:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001641_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2025 앤서니브라운 가족뮤지컬〈우리아빠가최고야〉 -대구]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54445</link>
@@ -24,6 +33,15 @@
             <content:encoded><![CDATA[2025.02.19
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002299_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 어린이베스트셀러 뮤지컬 〈콧구멍을 후비면〉 - 청주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54477</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54477</guid>
+            <pubDate>Wed, 19 Feb 2025 00:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.19
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002221_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[시간을 파는 상점]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2025.02.19
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001900_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[엉망진창 정필링쑈]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54439</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54439</guid>
-            <pubDate>Tue, 18 Feb 2025 15:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.19
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002231_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[［20집 발매 기념 조용필＆위대한탄생 Concert - 대전］]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54434</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54434</guid>
-            <pubDate>Tue, 18 Feb 2025 15:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002041_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
