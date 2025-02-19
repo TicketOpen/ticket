@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2025-02-19T05:11:05.319Z</updated>
+    <updated>2025-02-19T06:13:30.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조항조 전국투어 콘서트 '생각' 부산공연]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54538&amp;groupno=54538&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54538&amp;groupno=54538&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-02-19T06:12:17.861Z</updated>
+        <content type="html"><![CDATA[25.02.21(금)&nbsp;09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 라이브가족뮤지컬 〈아기돼지삼형제〉 - 울산]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54535&amp;groupno=54535&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54535&amp;groupno=54535&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-02-19T06:12:17.861Z</updated>
+        <content type="html"><![CDATA[25.02.25(화)&nbsp;09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈블러디 러브〉- 부산]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54536&amp;groupno=54536&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[25.02.21(금)&nbsp;15:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025 BTOB FAN-CON ‘3,2,1 GO! MELympic]]></title>
+        <title type="html"><![CDATA[2025 BTOB FAN-CON ‘3,2,1 GO! MELympic']]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54534&amp;groupno=54534&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54534&amp;groupno=54534&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-02-19T05:09:51.441Z</updated>
@@ -80,7 +94,7 @@
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54525&amp;groupno=54525&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54525&amp;groupno=54525&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-02-19T05:09:51.462Z</updated>
-        <content type="html"><![CDATA[&nbsp;]]></content>
+        <content type="html"><![CDATA[25.02.21(금)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[발렌티나 이고쉬나 피아노 리사이틀]]></title>
@@ -116,19 +130,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54520&amp;groupno=54520&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-02-19T00:37:14.105Z</updated>
         <content type="html"><![CDATA[25.02.19(수)&nbsp;00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지브리디즈니마블 OST재즈오케스트라 서울콘서트]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54518&amp;groupno=54518&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54518&amp;groupno=54518&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-02-19T00:37:14.106Z</updated>
-        <content type="html"><![CDATA[25.02.24(월)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 〈어린이마술쇼〉-평택]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54519&amp;groupno=54519&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54519&amp;groupno=54519&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-02-19T00:37:14.108Z</updated>
-        <content type="html"><![CDATA[25.02.24(월)&nbsp;09:00]]></content>
     </entry>
 </feed>
