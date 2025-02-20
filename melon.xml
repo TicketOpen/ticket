@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-02-20T04:11:35.622Z</updated>
+    <updated>2025-02-20T05:10:30.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤서니 라자로 앙코르 서울 공연 (Anthony Lazaro Encore in Seoul) 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10002</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10002"/>
+        <updated>2025-02-20T05:09:14.174Z</updated>
+        <content type="html"><![CDATA[2025.02.21(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제17회 서울재즈페스티벌 2025 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10000</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9991"/>
         <updated>2025-02-20T00:37:19.757Z</updated>
         <content type="html"><![CDATA[2025.02.17(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 SF9 YOO TAE YANG B-DAY PARTY ‘HAPPY TAE YANG DAY’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9990</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9990"/>
-        <updated>2025-02-20T00:37:19.759Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
 </feed>
