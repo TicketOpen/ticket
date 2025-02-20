@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 09:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 10:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,15 @@
             <content:encoded><![CDATA[25.02.20(목)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[도덕적 도둑 외 1편 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54542</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54542</guid>
+            <pubDate>Thu, 20 Feb 2025 00:37:44 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.20
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002049_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2025 라이브가족뮤지컬 〈백설공주〉-광주 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54491</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54491</guid>
@@ -150,15 +159,6 @@
             <content:encoded><![CDATA[2025.02.20
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002306_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[도덕적 도둑 외 1편 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54542</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54542</guid>
-            <pubDate>Thu, 20 Feb 2025 00:37:44 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.20
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002049_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[정명훈 × KBS교향악단 〈베토벤 9〉 (인터파크 티켓 모바일)]]></title>
