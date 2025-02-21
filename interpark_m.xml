@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 02:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 03:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002092_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[Road to BU-ROCK Seoul]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54555</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54555</guid>
+            <pubDate>Fri, 21 Feb 2025 03:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002528_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[연극 사랑해 엄마]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54502</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54502</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2025.02.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015841_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[［고양］뮤지컬 번개맨 시즌2 〈번개맨!VS번개맨?〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54507</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54507</guid>
-            <pubDate>Fri, 21 Feb 2025 00:37:53 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002309_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
