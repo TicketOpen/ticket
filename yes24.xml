@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-21T08:15:04.699Z</updated>
+    <updated>2025-02-21T09:09:54.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15660"/>
         <updated>2025-02-21T02:11:13.896Z</updated>
         <content type="html"><![CDATA[2025.02.26(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15659</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15659"/>
+        <updated>2025-02-21T09:09:05.777Z</updated>
+        <content type="html"><![CDATA[2025.02.24(월) 13:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15641"/>
         <updated>2025-02-19T00:37:34.415Z</updated>
         <content type="html"><![CDATA[2025.02.24(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15639</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15639"/>
-        <updated>2025-02-18T11:03:32.843Z</updated>
-        <content type="html"><![CDATA[2025.02.21(금) 14:00]]></content>
     </entry>
 </feed>
