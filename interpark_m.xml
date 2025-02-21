@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 13:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 14:03:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,15 +17,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002476_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈꽃의 비밀〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54456</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54456</guid>
-            <pubDate>Thu, 20 Feb 2025 15:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.21
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018192_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 - 경주]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54500</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54500</guid>
@@ -33,6 +24,15 @@
             <content:encoded><![CDATA[2025.02.21
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002450_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈꽃의 비밀〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54456</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54456</guid>
+            <pubDate>Thu, 20 Feb 2025 15:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.21
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018192_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 Weverse Con Festival]]></title>
@@ -53,6 +53,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014659_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[연극 〈카포네 트릴로지〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54466</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54466</guid>
+            <pubDate>Thu, 20 Feb 2025 15:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000883_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[지브리 ＆ 디즈니 OST 콘서트 - 부산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54481</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54481</guid>
@@ -71,13 +80,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002092_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈카포네 트릴로지〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54466</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54466</guid>
-            <pubDate>Thu, 20 Feb 2025 15:08:55 GMT</pubDate>
+            <title><![CDATA[Road to BU-ROCK Seoul]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54555</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54555</guid>
+            <pubDate>Fri, 21 Feb 2025 14:02:45 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.21
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000883_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002528_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 사랑해 엄마]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2025.02.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015841_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈웃는 남자〉 - 성남]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54505</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54505</guid>
-            <pubDate>Fri, 21 Feb 2025 12:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002514_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
