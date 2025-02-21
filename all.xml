@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 05:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 06:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54572&amp;groupno=54572&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 21 Feb 2025 05:08:45 GMT</pubDate>
             <content:encoded><![CDATA[25.02.27(목)&nbsp;19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 안성 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54575&amp;groupno=54575&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54575&amp;groupno=54575&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 21 Feb 2025 06:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[25.02.28(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 (인터파크 티켓)]]></title>
@@ -183,13 +190,6 @@
             <content:encoded><![CDATA[25.02.26(수)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 라이브 가족뮤지컬 〈신데렐라〉 - 대전 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54557&amp;groupno=54557&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54557&amp;groupno=54557&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 20 Feb 2025 09:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[25.02.27(목)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2025 앤서니브라운 가족뮤지컬 〈난 책이 좋아요〉 - 광주 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54559&amp;groupno=54559&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54559&amp;groupno=54559&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -249,6 +249,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014659_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[연극 〈카포네 트릴로지〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54466</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54466</guid>
+            <pubDate>Thu, 20 Feb 2025 15:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000883_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[지브리 ＆ 디즈니 OST 콘서트 - 부산 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54481</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54481</guid>
@@ -265,15 +274,6 @@
             <content:encoded><![CDATA[2025.02.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002092_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈카포네 트릴로지〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54466</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54466</guid>
-            <pubDate>Thu, 20 Feb 2025 15:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000883_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[Road to BU-ROCK Seoul (인터파크 티켓 모바일)]]></title>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매]  ​한석준의 토크콘서트 <대화의 기술> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61455</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61455</guid>
+            <pubDate>Fri, 21 Feb 2025 06:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.24(월) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[최인훈 명작 시리즈 [달아 달아 밝은 달아] - 부산 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61454</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61454</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.02.26(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  [피처링_트랙 13] 뮤지컬 <배니싱>​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61438</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61438</guid>
-            <pubDate>Thu, 20 Feb 2025 05:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.25(화) 02:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  ​한석준의 토크콘서트 <대화의 기술> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61455</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61455</guid>
+            <pubDate>Fri, 21 Feb 2025 06:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.24(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최인훈 명작 시리즈 [달아 달아 밝은 달아] - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61440</guid>
             <pubDate>Thu, 20 Feb 2025 05:10:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.26(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  [피처링_트랙 13] 뮤지컬 <배니싱>​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61438</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61438</guid>
-            <pubDate>Thu, 20 Feb 2025 05:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.25(화) 02:00]]></content:encoded>
         </item>
     </channel>
 </rss>

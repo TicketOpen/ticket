@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 05:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 06:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,6 +53,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014659_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[연극 〈카포네 트릴로지〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54466</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54466</guid>
+            <pubDate>Thu, 20 Feb 2025 15:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000883_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[지브리 ＆ 디즈니 OST 콘서트 - 부산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54481</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54481</guid>
@@ -69,15 +78,6 @@
             <content:encoded><![CDATA[2025.02.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002092_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈카포네 트릴로지〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54466</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54466</guid>
-            <pubDate>Thu, 20 Feb 2025 15:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000883_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[Road to BU-ROCK Seoul]]></title>
