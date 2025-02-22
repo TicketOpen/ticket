@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-02-22T22:04:23.920Z</updated>
+    <updated>2025-02-22T23:07:45.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[strangers club vol.2 – Gliiico & WACK & 김승주 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10017</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10017"/>
+        <updated>2025-02-22T23:06:30.086Z</updated>
+        <content type="html"><![CDATA[2025.02.24(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컬러풀 스테이지 #11 엔분의일, 캔트비블루, 해서웨이 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10016</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10016"/>
+        <updated>2025-02-22T23:06:30.088Z</updated>
+        <content type="html"><![CDATA[2025.02.25(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 김수영 소극장 단독공연 〈Bloom〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10015</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10015"/>
+        <updated>2025-02-22T23:06:30.091Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유스웨더나잇 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10014</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10014"/>
+        <updated>2025-02-22T23:06:30.107Z</updated>
+        <content type="html"><![CDATA[2025.02.24(월) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WTT Champions Incheon 2025 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10013</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10013"/>
+        <updated>2025-02-22T23:06:30.108Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 KT＆G 상상실현 페스티벌 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10012</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10012"/>
+        <updated>2025-02-22T23:06:30.109Z</updated>
+        <content type="html"><![CDATA[2025.02.28(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oui Oui We! 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10011</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10011"/>
+        <updated>2025-02-22T23:06:30.110Z</updated>
+        <content type="html"><![CDATA[2025.02.24(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키위 EP “Vertigo” 발매기념 단독공연 : Where are we headed now? 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10010</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10010"/>
+        <updated>2025-02-22T23:06:30.112Z</updated>
+        <content type="html"><![CDATA[2025.02.28(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TONE STUDIO LIVE 〈BUMP2SOUL〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10009</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10009"/>
+        <updated>2025-02-22T23:06:30.114Z</updated>
+        <content type="html"><![CDATA[2025.02.28(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박소은 단독 콘서트 ‘매일’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10008</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10008"/>
+        <updated>2025-02-22T23:06:30.117Z</updated>
+        <content type="html"><![CDATA[2025.02.28(금) 20:00]]></content>
+    </entry>
 </feed>
