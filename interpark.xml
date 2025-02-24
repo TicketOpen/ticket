@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2025-02-24T06:14:00.427Z</updated>
+    <updated>2025-02-24T07:10:19.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=54478&amp;groupno=54478&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-02-21T11:02:50.415Z</updated>
         <content type="html"><![CDATA[25.02.24(월)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김윤아 단독 콘서트 [ April is the Cruelest Month ]]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54596&amp;groupno=54596&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54596&amp;groupno=54596&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-02-24T07:09:05.464Z</updated>
+        <content type="html"><![CDATA[25.02.28(금)&nbsp;16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[XIUMIN FAN CONCERT 〈X Times ( )〉]]></title>
@@ -111,6 +118,13 @@
         <content type="html"><![CDATA[25.02.26(수)&nbsp;16:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2025 베스트셀러 뮤지컬〈커다란방귀〉-화성]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54597&amp;groupno=54597&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54597&amp;groupno=54597&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-02-24T07:09:05.519Z</updated>
+        <content type="html"><![CDATA[25.02.28(금)&nbsp;09:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2025 한스 짐머 내한공연 Hans Zimmer Live in Korea]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54581&amp;groupno=54581&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54581&amp;groupno=54581&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -118,24 +132,10 @@
         <content type="html"><![CDATA[25.02.28(금)&nbsp;16:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PEAK FESTIVAL 2025 얼리버드 티켓]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54580&amp;groupno=54580&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54580&amp;groupno=54580&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-02-21T09:08:42.463Z</updated>
-        <content type="html"><![CDATA[25.02.24(월)&nbsp;18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최현우 19+I - 전주]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54579&amp;groupno=54579&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54579&amp;groupno=54579&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-02-21T08:11:32.914Z</updated>
-        <content type="html"><![CDATA[25.02.25(화)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 박혜신 전국투어 콘서트 ‘각인(刻印)’ - 안양]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54578&amp;groupno=54578&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54578&amp;groupno=54578&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-02-21T07:08:49.074Z</updated>
-        <content type="html"><![CDATA[25.02.28(금)&nbsp;13:00]]></content>
+        <title type="html"><![CDATA[2025 베스트셀러 뮤지컬〈누가 내 머리에 똥쌌어？〉-광명]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54598&amp;groupno=54598&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54598&amp;groupno=54598&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-02-24T07:09:05.522Z</updated>
+        <content type="html"><![CDATA[25.02.28(금)&nbsp;09:00]]></content>
     </entry>
 </feed>
