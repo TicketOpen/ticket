@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 03:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 04:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=54478&amp;groupno=54478&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 21 Feb 2025 11:02:50 GMT</pubDate>
             <content:encoded><![CDATA[25.02.24(월)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈붉은 정원〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54594&amp;groupno=54594&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54594&amp;groupno=54594&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 24 Feb 2025 04:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[25.02.28(금)&nbsp;13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 폴포츠 내한공연 : Prime Time - 대구 (인터파크 티켓)]]></title>
@@ -132,13 +139,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54570&amp;groupno=54570&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 21 Feb 2025 02:10:49 GMT</pubDate>
             <content:encoded><![CDATA[25.02.26(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[헐리우드 영화음악 콘서트 Op. 1(카이,정선아) (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54569&amp;groupno=54569&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54569&amp;groupno=54569&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 21 Feb 2025 02:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[25.02.26(수)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 라이브가족뮤지컬 〈신데렐라〉 - 부산 (인터파크 티켓 모바일)]]></title>
