@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 11:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 12:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -521,6 +521,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> 고양​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61475</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61475</guid>
+            <pubDate>Mon, 24 Feb 2025 12:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.26(수) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 2025 SON HOYOUNG FAN MEETING '우리의 계절, 호영'​​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61474</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61474</guid>
@@ -619,11 +626,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.03.05(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 탱고 아르헨티나 Tango Argentina - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61459</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61459</guid>
-            <pubDate>Fri, 21 Feb 2025 07:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.25(화) 05:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61475</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61475</guid>
+            <pubDate>Mon, 24 Feb 2025 12:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.26(수) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 2025 SON HOYOUNG FAN MEETING '우리의 계절, 호영'​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -722,13 +729,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61460</guid>
             <pubDate>Fri, 21 Feb 2025 07:09:48 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.05(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 탱고 아르헨티나 Tango Argentina - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61459</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61459</guid>
-            <pubDate>Fri, 21 Feb 2025 07:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.25(화) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
