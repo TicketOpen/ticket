@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 08:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 09:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=54478&amp;groupno=54478&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 21 Feb 2025 11:02:50 GMT</pubDate>
             <content:encoded><![CDATA[25.02.24(월)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[78LIVE - 심아일랜드 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54599&amp;groupno=54599&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54599&amp;groupno=54599&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 24 Feb 2025 09:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[25.02.27(목)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보이스 오브 팬텀 with 라포엠 (인터파크 티켓)]]></title>
@@ -190,13 +197,6 @@
             <content:encoded><![CDATA[25.02.20(목)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Dragon Pony (드래곤포니) 1st Concert 'Not Out' in Seoul (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54583&amp;groupno=54583&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54583&amp;groupno=54583&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 24 Feb 2025 00:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.11(화)&nbsp;18:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2025 베스트셀러 뮤지컬〈커다란방귀〉-화성 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54597&amp;groupno=54597&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54597&amp;groupno=54597&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -299,6 +299,13 @@
             <content:encoded><![CDATA[2025.02.24
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002523_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[수원] 어린이베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15665</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15665</guid>
+            <pubDate>Mon, 24 Feb 2025 09:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.26(수) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부산] 2025 라이브가족뮤지컬 [괜찮아，안데르센] 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -434,11 +441,11 @@
             <content:encoded><![CDATA[2025.02.26(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15645</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15645</guid>
-            <pubDate>Wed, 19 Feb 2025 05:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.25(화) 09:00]]></content:encoded>
+            <title><![CDATA[[수원] 어린이베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15665&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15665&amp;order=1</guid>
+            <pubDate>Mon, 24 Feb 2025 09:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-26(수) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부산] 2025 라이브가족뮤지컬 [괜찮아，안데르센] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -502,13 +509,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15656&amp;order=1</guid>
             <pubDate>Thu, 20 Feb 2025 08:12:13 GMT</pubDate>
             <content:encoded><![CDATA[2025-03-04(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [우리 노래방 가서… 얘기 좀 할까] 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15655&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15655&amp;order=1</guid>
-            <pubDate>Thu, 20 Feb 2025 05:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-27(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
