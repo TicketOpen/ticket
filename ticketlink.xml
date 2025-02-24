@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-24T02:17:04.014Z</updated>
+    <updated>2025-02-24T03:19:09.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <달 샤베트> - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61465</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61465"/>
+        <updated>2025-02-24T03:18:55.354Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폴포츠 내한 공연 : Prime Time - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61462</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61449"/>
         <updated>2025-02-21T02:11:47.622Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.27(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[go!go!vanillas presents READY STEADY go!go! vol.10 in Seoul (고고바닐라즈 내한공연)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61448</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61448"/>
-        <updated>2025-02-20T11:08:13.254Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.28(금) 09:00]]></content>
     </entry>
 </feed>
