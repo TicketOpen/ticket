@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 04:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 05:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,7 +68,7 @@
             <pubDate>Fri, 21 Feb 2025 15:08:46 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.24
                                     <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002007_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002607_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[페인터즈 - 광화문전용관]]></title>
