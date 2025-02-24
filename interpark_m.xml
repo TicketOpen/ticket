@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 00:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 02:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002481_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[지브리디즈니마블 OST재즈오케스트라 고양콘서트]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54523</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54523</guid>
+            <pubDate>Fri, 21 Feb 2025 15:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.24
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002359_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[지브리디즈니마블 OST재즈오케스트라 서울콘서트]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54518</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54518</guid>
@@ -42,15 +51,6 @@
             <content:encoded><![CDATA[2025.02.24
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002424_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[지브리디즈니마블 OST재즈오케스트라 고양콘서트]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54523</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54523</guid>
-            <pubDate>Fri, 21 Feb 2025 15:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.24
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002359_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 - 경기도 광주]]></title>
