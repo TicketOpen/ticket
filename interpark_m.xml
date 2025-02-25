@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 04:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 05:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,15 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002233_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈하트셉수트〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54553</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54553</guid>
-            <pubDate>Mon, 24 Feb 2025 15:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001185_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[〈5월의 봄〉 정훈희 x 송창식 with 함춘호 콘서트 - 의정부]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54504</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54504</guid>
@@ -69,6 +60,15 @@
             <content:encoded><![CDATA[2025.02.25
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000716_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈하트셉수트〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54553</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54553</guid>
+            <pubDate>Mon, 24 Feb 2025 15:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001185_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[［전주］뮤지컬 한글용사 아이야 〈사라진 한글을 찾아라!〉]]></title>
