@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 06:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 07:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2025 가족뮤지컬 <인어공주> - 광주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61491</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61491</guid>
+            <pubDate>Tue, 25 Feb 2025 07:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.26(수) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​[데뷔 60주년 기념공연] 2025 남진 전국투어 콘서트 - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61490</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61490</guid>
+            <pubDate>Tue, 25 Feb 2025 07:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.28(금) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[​엘사의 생일파티 - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61489</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61489</guid>
@@ -675,18 +689,18 @@
             <content:encoded><![CDATA[2025.02.25]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> 고양​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61475</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61475</guid>
-            <pubDate>Mon, 24 Feb 2025 12:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.26(수) 01:00]]></content:encoded>
+            <title><![CDATA[2025 가족뮤지컬 <인어공주> - 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61491</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61491</guid>
+            <pubDate>Tue, 25 Feb 2025 07:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.26(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2025 SON HOYOUNG FAN MEETING '우리의 계절, 호영'​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61474</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61474</guid>
-            <pubDate>Mon, 24 Feb 2025 07:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.28(금) 11:00]]></content:encoded>
+            <title><![CDATA[​[데뷔 60주년 기념공연] 2025 남진 전국투어 콘서트 - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61490</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61490</guid>
+            <pubDate>Tue, 25 Feb 2025 07:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.28(금) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​엘사의 생일파티 - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -778,20 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61476</guid>
             <pubDate>Tue, 25 Feb 2025 02:14:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/help/notice/61476" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">[공지] NHN링크 개인정보처리방침 변경에 대한 안내</h3></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61475</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61475</guid>
-            <pubDate>Mon, 24 Feb 2025 12:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.26(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2025 SON HOYOUNG FAN MEETING '우리의 계절, 호영'​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61474</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61474</guid>
-            <pubDate>Mon, 24 Feb 2025 07:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.28(금) 11:00]]></content:encoded>
         </item>
     </channel>
 </rss>
