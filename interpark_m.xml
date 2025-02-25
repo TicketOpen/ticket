@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 15:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 16:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,6 +44,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002650_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[가족뮤지컬 〈넘버블록스〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54571</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54571</guid>
+            <pubDate>Tue, 25 Feb 2025 15:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.26
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001408_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[연극 〈띨뿌리〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54562</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54562</guid>
@@ -60,15 +69,6 @@
             <content:encoded><![CDATA[2025.02.26
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000310_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈넘버블록스〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54571</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54571</guid>
-            <pubDate>Tue, 25 Feb 2025 15:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.26
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001408_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 수원]]></title>
