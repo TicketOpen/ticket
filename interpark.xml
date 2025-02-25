@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2025-02-25T05:10:18.694Z</updated>
+    <updated>2025-02-25T06:13:08.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[25.03.18(화)&nbsp;18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[78LIVE - 심아일랜드]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54599&amp;groupno=54599&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54599&amp;groupno=54599&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-02-24T09:10:14.434Z</updated>
-        <content type="html"><![CDATA[25.02.27(목)&nbsp;18:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[보이스 오브 팬텀 with 라포엠]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54600&amp;groupno=54600&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54600&amp;groupno=54600&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-02-24T08:12:13.678Z</updated>
         <content type="html"><![CDATA[25.02.28(금)&nbsp;13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈다시, 민들레〉]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54617&amp;groupno=54617&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54617&amp;groupno=54617&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-02-25T06:11:58.572Z</updated>
+        <content type="html"><![CDATA[25.02.27(목)&nbsp;10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 박혜신 전국투어 콘서트 ‘각인(刻印)’ - 서울]]></title>
