@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-02-26T00:38:51.531Z</updated>
+    <updated>2025-02-26T02:14:06.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15673&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15673&amp;order=1"/>
         <updated>2025-02-26T00:38:15.578Z</updated>
-        <content type="html"><![CDATA[2025-02-28(금) 09:00]]></content>
+        <content type="html"><![CDATA[2025-03-06(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[광명] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내]]></title>
