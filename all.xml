@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Feb 2025 12:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 13:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,15 +240,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002650_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 〈넘버블록스〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54571</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54571</guid>
-            <pubDate>Tue, 25 Feb 2025 15:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.26
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001408_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈띨뿌리〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54562</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54562</guid>
@@ -265,6 +256,15 @@
             <content:encoded><![CDATA[2025.02.26
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000310_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈넘버블록스〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54571</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54571</guid>
+            <pubDate>Tue, 25 Feb 2025 15:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.26
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001408_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 수원 (인터파크 티켓 모바일)]]></title>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레셰크 모주제르 Solo Piano​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61500</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61500</guid>
+            <pubDate>Wed, 26 Feb 2025 13:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.04(화) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 경산시립교향악단 제8회 정기연주회​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61499</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61499</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.02.28(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[울산] 가족뮤지컬 <읽으면서 바로 써먹는 어린이 감정표현>​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61485</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61485</guid>
-            <pubDate>Tue, 25 Feb 2025 05:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.04(화) 02:00]]></content:encoded>
+            <title><![CDATA[레셰크 모주제르 Solo Piano​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61500</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61500</guid>
+            <pubDate>Wed, 26 Feb 2025 13:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.04(화) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 경산시립교향악단 제8회 정기연주회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61486</guid>
             <pubDate>Tue, 25 Feb 2025 06:13:01 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.28(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[울산] 가족뮤지컬 <읽으면서 바로 써먹는 어린이 감정표현>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61485</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61485</guid>
-            <pubDate>Tue, 25 Feb 2025 05:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.04(화) 02:00]]></content:encoded>
         </item>
     </channel>
 </rss>
