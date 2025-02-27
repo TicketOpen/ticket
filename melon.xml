@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-02-27T10:10:46.916Z</updated>
+    <updated>2025-02-27T11:08:32.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[2025 송하예 콘서트 〈white Song〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10033</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10033"/>
-        <updated>2025-02-27T10:09:17.011Z</updated>
-        <content type="html"><![CDATA[2025.02.27(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GEMINI SEASON ‘Miles Away’ The World Tour in Seoul 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10029</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10029"/>
-        <updated>2025-02-27T10:09:17.014Z</updated>
-        <content type="html"><![CDATA[2025.02.28(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHARLOTTE : 테종 1st EP 앨범 발매 기념 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10028</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10028"/>
-        <updated>2025-02-27T10:09:17.016Z</updated>
-        <content type="html"><![CDATA[2025.03.04(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌8 [벤치위레오 단독 콘서트 ‘Set Me Freeeee!!’] 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10027</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10027"/>
-        <updated>2025-02-27T10:09:17.017Z</updated>
-        <content type="html"><![CDATA[2025.03.05(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열두달 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10026</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10026"/>
-        <updated>2025-02-27T10:09:17.018Z</updated>
-        <content type="html"><![CDATA[2025.02.28(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종신 전국 투어 콘서트 ‘그때’ - 수원 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10025</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10025"/>
-        <updated>2025-02-27T10:09:17.020Z</updated>
-        <content type="html"><![CDATA[2025.02.28(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제12회 김사월 쇼: 수잔 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10024</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10024"/>
-        <updated>2025-02-27T10:09:17.021Z</updated>
-        <content type="html"><![CDATA[2025.03.06(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 ‘헤다 가블러’ 1차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10023</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10023"/>
-        <updated>2025-02-27T10:09:17.022Z</updated>
-        <content type="html"><![CDATA[2025.03.07(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 SF9 YOO TAE YANG B-DAY PARTY ‘HAPPY TAE YANG DAY PARTY’ 시야제한석 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10022</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10022"/>
-        <updated>2025-02-27T10:09:17.024Z</updated>
-        <content type="html"><![CDATA[2025.02.24(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 서도밴드 클럽투어 〈새 집〉 - 서울 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10021</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10021"/>
-        <updated>2025-02-27T10:09:17.026Z</updated>
-        <content type="html"><![CDATA[2025.03.04(화) 18:00]]></content>
-    </entry>
 </feed>
