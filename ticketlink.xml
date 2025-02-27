@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-27T11:08:32.445Z</updated>
+    <updated>2025-02-27T12:16:04.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[오리지널 어린이 캣 - 과천​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61512</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61512"/>
-        <updated>2025-02-27T11:08:17.356Z</updated>
+        <updated>2025-02-27T12:15:47.620Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.05(수) 00:00]]></content>
     </entry>
     <entry>
