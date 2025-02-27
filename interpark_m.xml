@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 08:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 09:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,15 @@
             <content:encoded><![CDATA[2025.02.27
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002641_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54455</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54455</guid>
+            <pubDate>Wed, 26 Feb 2025 15:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.27
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002394_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 심수봉 전국투어콘서트 : 꽃길 - 안성]]></title>
@@ -51,15 +60,6 @@
             <content:encoded><![CDATA[2025.02.27
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002741_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54455</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54455</guid>
-            <pubDate>Wed, 26 Feb 2025 15:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.27
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002394_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 폴포츠 내한공연 : Prime Time - 대구]]></title>
