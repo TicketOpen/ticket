@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 02:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 03:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,15 +197,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002780_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈우리 노래방 가서... 얘기 좀 할까〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54551</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54551</guid>
-            <pubDate>Wed, 26 Feb 2025 15:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002707_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[≪봉제인간 : 분노의 재봉틀 (Sewing Machine of Wrath)≫ (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54544</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54544</guid>
@@ -213,6 +204,15 @@
             <content:encoded><![CDATA[2025.02.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/L0/L0000118_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈우리 노래방 가서... 얘기 좀 할까〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54551</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54551</guid>
+            <pubDate>Wed, 26 Feb 2025 15:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002707_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[인터파크 스테이지 - 뮤지컬 〈알라딘〉 한국 초연 (ALADDIN The Musical) (인터파크 티켓 모바일)]]></title>
@@ -514,6 +514,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매]  NERD CONNECTION 단독 공연 - S/S​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61504</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61504</guid>
+            <pubDate>Thu, 27 Feb 2025 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.06(목) 11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] ​최고의 발라더 with 백지영·케이윌 - 경주 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61503</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61503</guid>
@@ -612,11 +619,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.02.28(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​엘사의 생일파티 - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61489</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61489</guid>
-            <pubDate>Tue, 25 Feb 2025 06:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.28(금) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  NERD CONNECTION 단독 공연 - S/S​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61504</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61504</guid>
+            <pubDate>Thu, 27 Feb 2025 03:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.06(목) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] ​최고의 발라더 with 백지영·케이윌 - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -715,13 +722,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61490</guid>
             <pubDate>Tue, 25 Feb 2025 07:10:02 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.28(금) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​엘사의 생일파티 - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61489</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61489</guid>
-            <pubDate>Tue, 25 Feb 2025 06:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.28(금) 00:00]]></content:encoded>
         </item>
     </channel>
 </rss>
