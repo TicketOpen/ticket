@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 06:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 07:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,15 +24,6 @@
             <content:encoded><![CDATA[2025.02.27
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002641_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54455</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54455</guid>
-            <pubDate>Wed, 26 Feb 2025 15:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.27
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002394_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 심수봉 전국투어콘서트 : 꽃길 - 안성]]></title>
@@ -62,6 +53,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002741_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2025 가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54455</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54455</guid>
+            <pubDate>Wed, 26 Feb 2025 15:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.27
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002394_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2025 폴포츠 내한공연 : Prime Time - 대구]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54585</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54585</guid>
@@ -71,15 +71,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002780_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[≪봉제인간 : 분노의 재봉틀 (Sewing Machine of Wrath)≫]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54544</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54544</guid>
-            <pubDate>Wed, 26 Feb 2025 15:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/L0/L0000118_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈우리 노래방 가서... 얘기 좀 할까〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54551</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54551</guid>
@@ -87,6 +78,15 @@
             <content:encoded><![CDATA[2025.02.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002707_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[≪봉제인간 : 분노의 재봉틀 (Sewing Machine of Wrath)≫]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54544</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54544</guid>
+            <pubDate>Wed, 26 Feb 2025 15:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/L0/L0000118_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[인터파크 스테이지 - 뮤지컬 〈알라딘〉 한국 초연 (ALADDIN The Musical)]]></title>
