@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2025-02-28T02:15:37.929Z</updated>
+    <updated>2025-02-28T03:18:59.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈마하랑 떠나요 - 수도SONG 세계여행〉 - 고양]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54668&amp;groupno=54668&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54668&amp;groupno=54668&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-02-28T03:18:00.595Z</updated>
+        <content type="html"><![CDATA[25.03.06(목)&nbsp;12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국항공대학교 항공우주박물관 - 고양]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=1039&amp;groupno=1039&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=1039&amp;groupno=1039&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-02-28T03:18:00.596Z</updated>
+        <content type="html"><![CDATA[25.03.05(수)&nbsp;12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［항공우주박물관］ 대한항공 A300 항공기 체험 - 고양]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=1038&amp;groupno=1038&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=1038&amp;groupno=1038&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-02-28T03:18:00.620Z</updated>
+        <content type="html"><![CDATA[25.03.05(수)&nbsp;12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국항공대학교 항공우주박물관 - 고양]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=1037&amp;groupno=1037&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=1037&amp;groupno=1037&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-02-28T03:18:00.621Z</updated>
+        <content type="html"><![CDATA[25.03.05(수)&nbsp;12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2025_서울 앙코르 티켓오픈 안내]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54666&amp;groupno=54666&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -38,10 +66,10 @@
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54662&amp;groupno=54662&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54662&amp;groupno=54662&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-02-28T02:14:19.265Z</updated>
-        <content type="html"><![CDATA[25.03.04(화)&nbsp;11:00]]></content>
+        <content type="html"><![CDATA[25.03.05(수)&nbsp;11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서울 스프링 페스타 WONDER SHOW]]></title>
+        <title type="html"><![CDATA[서울스프링페스타 WONDER SHOW]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54661&amp;groupno=54661&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54661&amp;groupno=54661&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-02-28T02:14:19.267Z</updated>
@@ -102,33 +130,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54654&amp;groupno=54654&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-02-27T07:08:54.840Z</updated>
         <content type="html"><![CDATA[25.03.10(월)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조항조 전국투어 콘서트 : 생각 - 목포]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54653&amp;groupno=54653&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54653&amp;groupno=54653&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-02-27T06:12:14.335Z</updated>
-        <content type="html"><![CDATA[25.03.04(화)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈JUMP 점프〉 - 고양]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54652&amp;groupno=54652&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54652&amp;groupno=54652&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-02-27T05:09:29.193Z</updated>
-        <content type="html"><![CDATA[25.03.04(화)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 고양]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54651&amp;groupno=54651&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54651&amp;groupno=54651&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-02-27T05:09:29.224Z</updated>
-        <content type="html"><![CDATA[25.03.06(목)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 베터하프 〈까마귀 클럽〉]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54650&amp;groupno=54650&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54650&amp;groupno=54650&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-02-27T05:09:29.224Z</updated>
-        <content type="html"><![CDATA[25.02.28(금)&nbsp;18:00]]></content>
     </entry>
 </feed>
