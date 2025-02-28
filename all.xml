@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 08:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 09:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 장들레 EP 발매 기념 공연 〈아는사람〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10040</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10040</guid>
+            <pubDate>Fri, 28 Feb 2025 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.04(화) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 김수영 소극장 단독공연 〈Bloom〉 추가 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10039</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10039</guid>
+            <pubDate>Fri, 28 Feb 2025 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.05(수) 19:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[IVE 공식 팬클럽 ‘DIVE’ 4기 추가모집 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10037</link>
@@ -64,18 +78,11 @@
             <content:encoded><![CDATA[2025.03.05(수) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[열두달 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10026</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10026</guid>
-            <pubDate>Fri, 28 Feb 2025 08:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.28(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤종신 전국 투어 콘서트 ‘그때’ - 수원 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10025</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10025</guid>
-            <pubDate>Fri, 28 Feb 2025 08:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.28(금) 14:00]]></content:encoded>
+            <title><![CDATA[2025 김창옥 토크콘서트 시즌5 - 목포 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54682&amp;groupno=54682&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54682&amp;groupno=54682&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 28 Feb 2025 09:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[25.03.07(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 김창옥 토크콘서트 시즌5 - 용인 (인터파크 티켓)]]></title>
@@ -190,13 +197,6 @@
             <content:encoded><![CDATA[25.03.05(수)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2025_서울 앙코르 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54666&amp;groupno=54666&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54666&amp;groupno=54666&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 28 Feb 2025 02:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.05(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2025 베스트셀러 뮤지컬〈누가 내 머리에 똥쌌어？〉-부산 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54667&amp;groupno=54667&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54667&amp;groupno=54667&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -231,15 +231,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002904_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 가족뮤지컬 〈엄마까투리 - 유치원도, 도시도 처음이야〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54460</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54460</guid>
-            <pubDate>Thu, 27 Feb 2025 15:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.28
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002520_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 타키포오 ［몬스터 전쟁의 서막 ; 더 좀비］ - 구리 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54546</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54546</guid>
@@ -247,6 +238,15 @@
             <content:encoded><![CDATA[2025.02.28
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002642_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 가족뮤지컬 〈엄마까투리 - 유치원도, 도시도 처음이야〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54460</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54460</guid>
+            <pubDate>Thu, 27 Feb 2025 15:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.28
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002520_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[예수아 피아노 리사이틀 (인터파크 티켓 모바일)]]></title>
@@ -285,13 +285,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013437_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[보이스 오브 팬텀 with 라포엠 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54600</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54600</guid>
-            <pubDate>Fri, 28 Feb 2025 03:18:12 GMT</pubDate>
+            <title><![CDATA[소노로스 앙상블 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54660</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54660</guid>
+            <pubDate>Fri, 28 Feb 2025 09:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.28
                                     <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002571_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025022415432968.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[용인] 2025 김창옥 토크콘서트 시즌5 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] [대구] 신영숙.남경주의 뮤지컬 갈라콘서트 ​티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61522</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61522</guid>
+            <pubDate>Fri, 28 Feb 2025 09:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.04(화) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[서울] 뮤지컬 번개맨 시즌2 - 가정의 달 특별공연 - 마포  티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61520</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61520</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.03.04(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  NERD CONNECTION 단독 공연 - S/S​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61504</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61504</guid>
-            <pubDate>Thu, 27 Feb 2025 03:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.06(목) 11:00]]></content:encoded>
+            <title><![CDATA[[단독판매] [대구] 신영숙.남경주의 뮤지컬 갈라콘서트 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61522</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61522</guid>
+            <pubDate>Fri, 28 Feb 2025 09:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.04(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[서울] 뮤지컬 번개맨 시즌2 - 가정의 달 특별공연 - 마포  티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61505</guid>
             <pubDate>Thu, 27 Feb 2025 05:10:27 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.04(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  NERD CONNECTION 단독 공연 - S/S​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61504</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61504</guid>
-            <pubDate>Thu, 27 Feb 2025 03:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.06(목) 11:00]]></content:encoded>
         </item>
     </channel>
 </rss>
