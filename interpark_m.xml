@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 10:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 11:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002904_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 타키포오 ［몬스터 전쟁의 서막 ; 더 좀비］ - 구리]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54546</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54546</guid>
-            <pubDate>Thu, 27 Feb 2025 15:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.28
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002642_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 가족뮤지컬 〈엄마까투리 - 유치원도, 도시도 처음이야〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54460</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54460</guid>
@@ -51,6 +42,15 @@
             <content:encoded><![CDATA[2025.02.28
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002520_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 타키포오 ［몬스터 전쟁의 서막 ; 더 좀비］ - 구리]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54546</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54546</guid>
+            <pubDate>Thu, 27 Feb 2025 15:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.28
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002642_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[예수아 피아노 리사이틀]]></title>
