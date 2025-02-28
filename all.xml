@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 12:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 13:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,15 +240,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002642_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[예수아 피아노 리사이틀 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54659</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54659</guid>
-            <pubDate>Fri, 28 Feb 2025 02:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.28
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025022112144094.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2025 가족뮤지컬 〈엄마까투리 - 유치원도, 도시도 처음이야〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54460</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54460</guid>
@@ -256,6 +247,15 @@
             <content:encoded><![CDATA[2025.02.28
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002520_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[예수아 피아노 리사이틀 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54659</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54659</guid>
+            <pubDate>Fri, 28 Feb 2025 02:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.28
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025022112144094.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유니버설발레단 〈지젤〉 (인터파크 티켓 모바일)]]></title>
