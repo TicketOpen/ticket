@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 06:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 07:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈긴긴밤〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54705&amp;groupno=54705&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54705&amp;groupno=54705&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 04 Mar 2025 07:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[25.03.07(금)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[2025 서울연극창작센터 개관 페스티벌] 오브제극 〈시간을 칠하는 .. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54704&amp;groupno=54704&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -97,13 +104,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54690&amp;groupno=54690&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 04 Mar 2025 02:15:23 GMT</pubDate>
             <content:encoded><![CDATA[25.03.11(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤직드라마 〈불편한 편의점〉 - 제주 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54686&amp;groupno=54686&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54686&amp;groupno=54686&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 04 Mar 2025 02:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.07(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉 - 대전 (인터파크 티켓)]]></title>
@@ -514,6 +514,27 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엘사의 생일파티- 대구 수성 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61540</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61540</guid>
+            <pubDate>Tue, 04 Mar 2025 07:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.07(금) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엘사의 생일파티- 파주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61539</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61539</guid>
+            <pubDate>Tue, 04 Mar 2025 07:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.07(금) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​백설공주 - 수원 ​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61538</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61538</guid>
+            <pubDate>Tue, 04 Mar 2025 07:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.07(금) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 디즈니 인 콘서트 - 경주​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61537</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61537</guid>
@@ -598,25 +619,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.03.05(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] [피처링_트랙 16] 연극 <꽃의 비밀> 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61525</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61525</guid>
-            <pubDate>Tue, 04 Mar 2025 00:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.10(월) 05:00]]></content:encoded>
+            <title><![CDATA[엘사의 생일파티- 대구 수성 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61540</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61540</guid>
+            <pubDate>Tue, 04 Mar 2025 07:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쇼뮤지컬 Again <드림하이> (Showmusical Again < DreamHigh >)​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61524</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61524</guid>
-            <pubDate>Fri, 28 Feb 2025 11:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.07(금) 07:00]]></content:encoded>
+            <title><![CDATA[엘사의 생일파티- 파주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61539</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61539</guid>
+            <pubDate>Tue, 04 Mar 2025 07:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 만나필하모닉 오케스트라 “봄 정기연주회”​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61523</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61523</guid>
-            <pubDate>Fri, 28 Feb 2025 10:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.04(화) 01:00]]></content:encoded>
+            <title><![CDATA[​백설공주 - 수원 ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61538</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61538</guid>
+            <pubDate>Tue, 04 Mar 2025 07:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07(금) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 디즈니 인 콘서트 - 경주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -701,27 +722,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61526</guid>
             <pubDate>Fri, 28 Feb 2025 11:08:43 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.05(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] [피처링_트랙 16] 연극 <꽃의 비밀> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61525</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61525</guid>
-            <pubDate>Tue, 04 Mar 2025 00:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.10(월) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쇼뮤지컬 Again <드림하이> (Showmusical Again < DreamHigh >)​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61524</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61524</guid>
-            <pubDate>Fri, 28 Feb 2025 11:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.07(금) 07:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 만나필하모닉 오케스트라 “봄 정기연주회”​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61523</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61523</guid>
-            <pubDate>Fri, 28 Feb 2025 10:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.04(화) 01:00]]></content:encoded>
         </item>
     </channel>
 </rss>
