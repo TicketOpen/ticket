@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 05:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 06:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -180,7 +180,7 @@
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54713&amp;groupno=54713&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54713&amp;groupno=54713&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 05 Mar 2025 02:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.06(목)&nbsp;11:00]]></content:encoded>
+            <content:encoded><![CDATA[25.03.11(화)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 김창옥 토크콘서트 시즌5 - 여수 (인터파크 티켓)]]></title>
@@ -229,15 +229,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002831_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[박규희＆양방언 듀오 콘서트 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54706</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54706</guid>
-            <pubDate>Tue, 04 Mar 2025 20:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002887_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈라흐 헤스트〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54638</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54638</guid>
@@ -254,6 +245,15 @@
             <content:encoded><![CDATA[2025.03.05
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002957_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[박규희＆양방언 듀오 콘서트 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54706</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54706</guid>
+            <pubDate>Tue, 04 Mar 2025 20:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.05
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002887_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 타일러, 더 크리에이터(Tyler, The Creator) 내한공연 (인터파크 티켓 모바일)]]></title>
@@ -590,6 +590,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[헤레디움 특별전 2025: 디토와 비토 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61552</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61552</guid>
+            <pubDate>Wed, 05 Mar 2025 06:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.10(월) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 뮤지컬 <폴> ​마지막 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61551</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61551</guid>
+            <pubDate>Wed, 05 Mar 2025 06:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.07(금) 06:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 성남​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61550</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61550</guid>
@@ -681,18 +695,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.03.10(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛 시즌3 <바다넘어 육지까지> - 밀양​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61536</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61536</guid>
-            <pubDate>Tue, 04 Mar 2025 20:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.05(수) 00:00]]></content:encoded>
+            <title><![CDATA[헤레디움 특별전 2025: 디토와 비토 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61552</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61552</guid>
+            <pubDate>Wed, 05 Mar 2025 06:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.10(월) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 <슈퍼윙스 - 초능력 곤충 대소동> 천안 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61535</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61535</guid>
-            <pubDate>Tue, 04 Mar 2025 20:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.07(금) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 뮤지컬 <폴> ​마지막 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61551</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61551</guid>
+            <pubDate>Wed, 05 Mar 2025 06:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07(금) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 성남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,20 +798,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61537</guid>
             <pubDate>Tue, 04 Mar 2025 20:10:25 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.10(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛 시즌3 <바다넘어 육지까지> - 밀양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61536</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61536</guid>
-            <pubDate>Tue, 04 Mar 2025 20:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <슈퍼윙스 - 초능력 곤충 대소동> 천안 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61535</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61535</guid>
-            <pubDate>Tue, 04 Mar 2025 20:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.07(금) 01:00]]></content:encoded>
         </item>
     </channel>
 </rss>
