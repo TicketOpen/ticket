@@ -4,15 +4,78 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 14:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 15:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2025 타일러, 더 크리에이터(Tyler, The Creator) 내한공연 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=54630&amp;groupno=54630&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=54630&amp;groupno=54630&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 04 Mar 2025 22:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.05(수)&nbsp;12:00]]></content:encoded>
+            <title><![CDATA[정승환 공식 팬클럽 US(어스) 멤버십 모집 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10052</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10052</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.05(수) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤종신 전국투어 콘서트 ‘그때’ - 대구 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10051</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10051</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이브&로맨틱펀치 조인트 콘서트 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10050</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10050</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12(수) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[브로콜리너마저 단독콘서트 ‘롤링 홀리 브로콜리’ : 롤링 30주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10049</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10049</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SKYE WHITE DAY FAN MEETING : CANDY DATE] 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10047</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10047</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.05(수) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김승주 단독 콘서트 ‘Hint’ : 롤링 30주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10046</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10046</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.10(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고고학 단독 콘서트 ‘파도’ : 롤링 30주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10045</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10045</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈매디슨 카운티의 다리〉 1차 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10044</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10044</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07(금) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hi-Fi Un!corn 1st ASIA Tour “Beat it Beat it” IN SEOUL 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10042</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10042</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.10(월) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[드러머 조한샘 리사이틀-재즈로 만나는 대중음악 2025 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10041</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10041</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07(금) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 사랑해 엄마 (인터파크 티켓)]]></title>
@@ -141,94 +204,94 @@
             <content:encoded><![CDATA[25.03.13(목)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 앤서니브라운 가족뮤지컬 〈난 책이 좋아요〉 - 대전 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54629</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54629</guid>
-            <pubDate>Tue, 04 Mar 2025 20:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002968_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈뽀로로 포털의 세계〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54457</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54457</guid>
-            <pubDate>Tue, 04 Mar 2025 20:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05
+            <title><![CDATA[가족뮤지컬 〈뚜식이 - 뚜식이라서 다행이야!〉 부산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54683</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54683</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.06
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002831_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003057_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈라흐 헤스트〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54638</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54638</guid>
-            <pubDate>Tue, 04 Mar 2025 20:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54676</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54676</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.06
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001395_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001460_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[핑거스타일 코리아 스페셜 콘서트 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54662</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54662</guid>
-            <pubDate>Tue, 04 Mar 2025 20:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05
+            <title><![CDATA[뮤지컬 〈도리안 그레이〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54655</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54655</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.06
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002957_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001547_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[박규희＆양방언 듀오 콘서트 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54706</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54706</guid>
-            <pubDate>Tue, 04 Mar 2025 20:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002887_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 타일러, 더 크리에이터(Tyler, The Creator) 내한공연 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54630</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54630</guid>
-            <pubDate>Tue, 04 Mar 2025 20:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05
+            <title><![CDATA[뮤지컬 〈마하랑 떠나요 - 수도SONG 세계여행〉 - 고양 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54668</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54668</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.06
                                     <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003051_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000704_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[GS아트센터 X 서울재즈페스티벌 〈팻 메시니 드림 박스/문다이얼 투어〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54606</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54606</guid>
-            <pubDate>Tue, 04 Mar 2025 20:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003020_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 고양 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54651</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54651</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003073_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[GS아트센터 X 서울재즈페스티벌 〈브래드 멜다우,  크리스천 맥브라이드, 마커스 길모어〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54607</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54607</guid>
-            <pubDate>Wed, 05 Mar 2025 14:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002854_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[뮤지컬 〈니진스키〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54670</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54670</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001674_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[한국항공대학교 항공우주박물관 - 고양 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1037</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1037</guid>
-            <pubDate>Tue, 04 Mar 2025 20:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000753_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[뮤지컬 〈사랑의 하츄핑〉 - 안성 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54675</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54675</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025022718371800.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［항공우주박물관］ 대한항공 A300 항공기 체험 - 고양 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1038</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1038</guid>
-            <pubDate>Tue, 04 Mar 2025 20:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000747_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[직장인을 위한 〈퇴근길 콘서트〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54725</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54725</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003145_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 〈적벽〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54671</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54671</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.06
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001764_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[RETRO&NEWTRO MUSIC 〈최재훈 x 잠골버스〉 #1 성남 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54663</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54663</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.06
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025022717094179.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
