@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 19:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 20:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,15 +240,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000704_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈니진스키〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54670</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54670</guid>
-            <pubDate>Wed, 05 Mar 2025 15:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.06
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001674_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 고양 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54651</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54651</guid>
@@ -256,6 +247,15 @@
             <content:encoded><![CDATA[2025.03.06
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003073_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈니진스키〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54670</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54670</guid>
+            <pubDate>Wed, 05 Mar 2025 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001674_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈사랑의 하츄핑〉 - 안성 (인터파크 티켓 모바일)]]></title>
