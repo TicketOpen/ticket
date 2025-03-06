@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 07:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 08:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 뮤지컬 <바다 100층짜리 집> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61559</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61559</guid>
+            <pubDate>Thu, 06 Mar 2025 08:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.11(화) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 뮤지컬 <바다 100층짜리 집> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61558</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61558</guid>
+            <pubDate>Thu, 06 Mar 2025 08:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.11(화) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 악기야놀자 - 부산 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61557</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61557</guid>
@@ -674,18 +688,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.03.05(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 경상북도 도립국악단 제170회 정기연주회 ​티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61544</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61544</guid>
-            <pubDate>Tue, 04 Mar 2025 20:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.05(수) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 뮤지컬 <바다 100층짜리 집> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61559</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61559</guid>
+            <pubDate>Thu, 06 Mar 2025 08:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11(화) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[앤서니브라운의 돼지책 - 원주​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61543</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61543</guid>
-            <pubDate>Tue, 04 Mar 2025 20:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.07(금) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 뮤지컬 <바다 100층짜리 집> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61558</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61558</guid>
+            <pubDate>Thu, 06 Mar 2025 08:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 악기야놀자 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -777,20 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61545</guid>
             <pubDate>Wed, 05 Mar 2025 22:09:13 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.05(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 경상북도 도립국악단 제170회 정기연주회 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61544</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61544</guid>
-            <pubDate>Wed, 05 Mar 2025 22:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.05(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[앤서니브라운의 돼지책 - 원주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61543</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61543</guid>
-            <pubDate>Wed, 05 Mar 2025 22:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.07(금) 00:00]]></content:encoded>
         </item>
     </channel>
 </rss>
