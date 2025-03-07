@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 00:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 02:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 베스트셀러 뮤지컬〈누가 내 머리에 똥쌌어？〉-창원(진해)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54645</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54645</guid>
+            <pubDate>Thu, 06 Mar 2025 16:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003075_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈이상한 나라의 앨리스 : 완다랜드〉서울-용산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54719</link>
@@ -51,15 +60,6 @@
             <content:encoded><![CDATA[2025.03.07
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003243_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 베스트셀러 뮤지컬〈누가 내 머리에 똥쌌어？〉-창원(진해)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54645</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54645</guid>
-            <pubDate>Thu, 06 Mar 2025 16:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.07
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003075_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉 - 천안]]></title>
