@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 23:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 00:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -141,6 +141,13 @@
             <content:encoded><![CDATA[25.03.13(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2025 라이브가족뮤지컬 〈알라딘〉 - 목동 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54753&amp;groupno=54753&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54753&amp;groupno=54753&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 07 Mar 2025 00:38:55 GMT</pubDate>
+            <content:encoded><![CDATA[25.03.12(수)&nbsp;10:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2025 JOYURI FAN-CON ‘Episode 25’ (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54740&amp;groupno=54740&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54740&amp;groupno=54740&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -190,27 +197,11 @@
             <content:encoded><![CDATA[25.03.10(월)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[〈빛이되는 노래. 황가람〉 투어콘서트- 창원 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54735&amp;groupno=54735&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54735&amp;groupno=54735&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 06 Mar 2025 00:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.11(화)&nbsp;17:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2025 라이브가족뮤지컬 〈인어공주〉 - 서울(구로) (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54746&amp;groupno=54746&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54746&amp;groupno=54746&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 06 Mar 2025 07:09:28 GMT</pubDate>
             <content:encoded><![CDATA[25.03.14(금)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025 베스트셀러 뮤지컬〈누가 내 머리에 똥쌌어？〉-창원(진해) (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54645</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54645</guid>
-            <pubDate>Thu, 06 Mar 2025 16:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.07
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003075_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈이상한 나라의 앨리스 : 완다랜드〉서울-용산 (인터파크 티켓 모바일)]]></title>
@@ -256,6 +247,15 @@
             <content:encoded><![CDATA[2025.03.07
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003243_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 베스트셀러 뮤지컬〈누가 내 머리에 똥쌌어？〉-창원(진해) (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54645</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54645</guid>
+            <pubDate>Thu, 06 Mar 2025 16:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003075_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉 - 천안 (인터파크 티켓 모바일)]]></title>
@@ -686,6 +686,111 @@
             <guid>http://www.ticketlink.co.kr/help/notice/61549</guid>
             <pubDate>Wed, 05 Mar 2025 07:09:51 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2025.03.07(금) 06:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전> - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61563</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61563</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11(화) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전> - 전주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61562</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61562</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11(화) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  ​GRUNT ZERO PARTY (Season 2)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61561</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61561</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12(수) 03:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 틈새시장 1주년 콘서트 : PALETTE​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61560</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61560</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.10(월) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 뮤지컬 <바다 100층짜리 집> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61559</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61559</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11(화) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 뮤지컬 <바다 100층짜리 집> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61558</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61558</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11(화) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 악기야놀자 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61557</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61557</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07(금) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61556</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61556</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11(화) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 제주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61555</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61555</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11(화) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 연극 <밑바닥에서>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61554</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61554</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07(금) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] SOOP 네이션스컵 철권 8 - 한국 vs 파키스탄 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61553</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61553</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07(금) 07:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[헤레디움 특별전 2025: 디토와 비토 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61552</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61552</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.10(월) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 뮤지컬 <폴> ​마지막 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61551</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61551</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07(금) 06:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 성남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61550</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61550</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12(수) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 이봄소리 첫 번째 팬미팅 <봄의 소리 Vol.1> ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61549</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61549</guid>
+            <pubDate>Fri, 07 Mar 2025 00:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07(금) 06:00]]></content:encoded>
         </item>
     </channel>
 </rss>
