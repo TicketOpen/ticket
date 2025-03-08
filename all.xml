@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Mar 2025 01:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 02:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,15 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025022714500364.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2025 뮤지컬 설민석의 한국사 대모험 시즌 2 '안중근' (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</guid>
+            <pubDate>Fri, 07 Mar 2025 15:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.10
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_family.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[De Yun She Global Tour (德云社全球巡演) (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54710</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54710</guid>
@@ -265,15 +274,6 @@
             <content:encoded><![CDATA[2025.03.10
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003220_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 뮤지컬 설민석의 한국사 대모험 시즌 2 '안중근' (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</guid>
-            <pubDate>Fri, 07 Mar 2025 15:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.10
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_family.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[연극 젤리피쉬 (인터파크 티켓 모바일)]]></title>
