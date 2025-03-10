@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 06:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 07:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,15 +231,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003351_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 뮤지컬 설민석의 한국사 대모험 시즌 2 '안중근' (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</guid>
-            <pubDate>Fri, 07 Mar 2025 15:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.10
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002676_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[De Yun She Global Tour (德云社全球巡演) (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54710</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54710</guid>
@@ -274,6 +265,15 @@
             <content:encoded><![CDATA[2025.03.10
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003220_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 뮤지컬 설민석의 한국사 대모험 시즌 2 '안중근' (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</guid>
+            <pubDate>Fri, 07 Mar 2025 15:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.10
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002676_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 젤리피쉬 (인터파크 티켓 모바일)]]></title>
@@ -583,6 +583,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 콘서트 - 대전 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61584</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61584</guid>
+            <pubDate>Mon, 10 Mar 2025 07:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.12(수) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 대전 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61583</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61583</guid>
+            <pubDate>Mon, 10 Mar 2025 07:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.12(수) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[​2025 장민호 전국투어 콘서트 ‘호시절(好時節):시간여행’ – 서울앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61582</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61582</guid>
@@ -674,18 +688,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.03.17(월) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대구] 가족뮤지컬 〈읽으면서 바로 써먹는 어린이 감정표현> 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61569</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61569</guid>
-            <pubDate>Fri, 07 Mar 2025 05:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.12(수) 02:00]]></content:encoded>
+            <title><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 콘서트 - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61584</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61584</guid>
+            <pubDate>Mon, 10 Mar 2025 07:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12(수) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  유니버설발레단 <발레 춘향> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61568</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61568</guid>
-            <pubDate>Fri, 07 Mar 2025 05:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.11(화) 05:00]]></content:encoded>
+            <title><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61583</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61583</guid>
+            <pubDate>Mon, 10 Mar 2025 07:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12(수) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​2025 장민호 전국투어 콘서트 ‘호시절(好時節):시간여행’ – 서울앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -777,20 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61570</guid>
             <pubDate>Fri, 07 Mar 2025 05:10:30 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.17(월) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대구] 가족뮤지컬 〈읽으면서 바로 써먹는 어린이 감정표현> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61569</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61569</guid>
-            <pubDate>Fri, 07 Mar 2025 05:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.12(수) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  유니버설발레단 <발레 춘향> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61568</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61568</guid>
-            <pubDate>Fri, 07 Mar 2025 05:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.11(화) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
