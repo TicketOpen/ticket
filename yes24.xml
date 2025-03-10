@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-10T05:09:38.035Z</updated>
+    <updated>2025-03-10T06:11:47.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[PEAK FESTIVAL 2025 일반티켓 오픈]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15741</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15741"/>
+        <updated>2025-03-10T06:11:00.375Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스위스 로망드 오케스트라 & 양인모 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15740</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15719"/>
         <updated>2025-03-06T06:12:37.555Z</updated>
         <content type="html"><![CDATA[2025.03.14(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15718</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15718"/>
-        <updated>2025-03-06T03:19:43.930Z</updated>
-        <content type="html"><![CDATA[2025.03.13(목) 12:00]]></content>
     </entry>
 </feed>
