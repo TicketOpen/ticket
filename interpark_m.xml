@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 12:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 13:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,6 +33,15 @@
             <content:encoded><![CDATA[2025.03.10
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003351_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 뮤지컬 설민석의 한국사 대모험 시즌 2 '안중근']]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</guid>
+            <pubDate>Fri, 07 Mar 2025 15:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.10
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002676_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[De Yun She Global Tour (德云社全球巡演)]]></title>
@@ -69,15 +78,6 @@
             <content:encoded><![CDATA[2025.03.10
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003220_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 뮤지컬 설민석의 한국사 대모험 시즌 2 '안중근']]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</guid>
-            <pubDate>Fri, 07 Mar 2025 15:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.10
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002676_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 젤리피쉬]]></title>
