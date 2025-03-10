@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 02:31:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 03:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,15 +231,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003351_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 뮤지컬 설민석의 한국사 대모험 시즌 2 '안중근' (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</guid>
-            <pubDate>Fri, 07 Mar 2025 15:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.10
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002676_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[De Yun She Global Tour (德云社全球巡演) (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54710</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54710</guid>
@@ -276,6 +267,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003220_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2025 뮤지컬 설민석의 한국사 대모험 시즌 2 '안중근' (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54512</guid>
+            <pubDate>Fri, 07 Mar 2025 15:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.10
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002676_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[연극 젤리피쉬 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54684</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54684</guid>
@@ -292,6 +292,13 @@
             <content:encoded><![CDATA[2025.03.10
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002093_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15734</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15734</guid>
+            <pubDate>Mon, 10 Mar 2025 03:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.17(월) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부산] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -426,11 +433,11 @@
             <content:encoded><![CDATA[2025.03.13(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[군포] 2025 김창옥 토크콘서트 시즌5 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15711</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15711</guid>
-            <pubDate>Wed, 05 Mar 2025 02:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.10(월) 10:00]]></content:encoded>
+            <title><![CDATA[VIVIZ (비비지) 공식 팬클럽 나비 (Na.V) 3기 모집 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15734&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15734&amp;order=1</guid>
+            <pubDate>Mon, 10 Mar 2025 03:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[2025-03-17(월) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부산] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -491,13 +498,6 @@
             <title><![CDATA[[대전] 2025 베스트셀러 뮤지컬 [커다란방귀] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15722&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15722&amp;order=1</guid>
-            <pubDate>Thu, 06 Mar 2025 07:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[2025-03-10(월) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[청주] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15721&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15721&amp;order=1</guid>
             <pubDate>Thu, 06 Mar 2025 07:10:04 GMT</pubDate>
             <content:encoded><![CDATA[2025-03-10(월) 09:00]]></content:encoded>
         </item>
