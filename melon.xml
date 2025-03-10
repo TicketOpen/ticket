@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-03-10T00:34:14.660Z</updated>
+    <updated>2025-03-10T01:59:11.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SHINee WORLD Ⅶ [E.S.S.A.Y] (Every Stage Shines Around You) 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10069</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10069"/>
+        <updated>2025-03-10T01:57:47.541Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥상달빛 소극장공연 [옥캉스] 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10067</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10058"/>
         <updated>2025-03-09T23:01:41.409Z</updated>
         <content type="html"><![CDATA[2025.03.10(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정효빈 단독 콘서트 ‘대화가 필요해’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10055</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10055"/>
-        <updated>2025-03-09T23:01:41.431Z</updated>
-        <content type="html"><![CDATA[2025.03.13(목) 20:00]]></content>
     </entry>
 </feed>

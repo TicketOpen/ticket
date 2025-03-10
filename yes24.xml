@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-10T00:34:14.653Z</updated>
+    <updated>2025-03-10T01:59:11.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15733</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15733"/>
+        <updated>2025-03-10T01:58:21.008Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15732</id>
@@ -51,7 +58,7 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15724</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15724"/>
         <updated>2025-03-07T02:16:22.803Z</updated>
-        <content type="html"><![CDATA[2025.03.11(화) 14:00]]></content>
+        <content type="html"><![CDATA[2025.03.14(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2025 베스트셀러 뮤지컬 [커다란방귀] 티켓오픈 안내]]></title>
@@ -135,13 +142,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15711</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15711"/>
         <updated>2025-03-05T02:15:19.466Z</updated>
-        <content type="html"><![CDATA[2025.03.10(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여수] 2025 김창옥 토크콘서트 시즌5 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15710</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15710"/>
-        <updated>2025-03-05T02:15:19.485Z</updated>
         <content type="html"><![CDATA[2025.03.10(월) 10:00]]></content>
     </entry>
 </feed>
