@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 19:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 20:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,13 +258,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003078_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[2025 서울연극창작센터 개관 페스티벌] 오브제극 〈시간을 칠하는 사람〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54704</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54704</guid>
-            <pubDate>Mon, 10 Mar 2025 17:09:00 GMT</pubDate>
+            <title><![CDATA[인천동구문화체육센터 연극 〈톡톡〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54749</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54749</guid>
+            <pubDate>Mon, 10 Mar 2025 15:10:20 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.11
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_play.png" length="0" type="image/png"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003442_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[최현우 19+I - 성남 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54752</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54752</guid>
+            <pubDate>Mon, 10 Mar 2025 20:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002598_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[2025 서울연극창작센터 개관 페스티벌] 이것은 실존과 생존과 이기에 대한 이야기 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2025.03.11
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_play.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인천동구문화체육센터 연극 〈톡톡〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54749</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54749</guid>
-            <pubDate>Mon, 10 Mar 2025 15:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003442_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[PEAK FESTIVAL 2025 일반티켓 오픈 (예스24 티켓)]]></title>
