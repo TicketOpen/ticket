@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-10T23:09:29.875Z</updated>
+    <updated>2025-03-11T00:39:48.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 가족뮤지컬 겨울왕국 - 과천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61591</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61591"/>
+        <updated>2025-03-11T00:39:31.573Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 삼남매 트롯콘서트-반가희×공훈×신미래 대구​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61587</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61574"/>
         <updated>2025-03-07T09:09:54.768Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 비밀 사이 팬미팅 : 비밀리에​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61573</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61573"/>
-        <updated>2025-03-07T09:09:54.771Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 11:00]]></content>
     </entry>
 </feed>

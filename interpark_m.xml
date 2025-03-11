@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 23:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 00:39:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 베스트셀러 뮤지컬〈누가 내 머리에 똥쌌어？〉-부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54667</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54667</guid>
+            <pubDate>Mon, 10 Mar 2025 15:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003421_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 브레드이발소 〈빵스타 대격돌〉 - 제주]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54738</link>
@@ -14,7 +23,7 @@
             <pubDate>Mon, 10 Mar 2025 15:10:20 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.11
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025030511292583.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003372_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 브레드이발소 〈빵스타 대격돌〉 - 안산]]></title>
@@ -23,16 +32,7 @@
             <pubDate>Mon, 10 Mar 2025 15:10:20 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.11
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025030515150405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 베스트셀러 뮤지컬〈누가 내 머리에 똥쌌어？〉-부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54667</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54667</guid>
-            <pubDate>Mon, 10 Mar 2025 15:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.11
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025022717394301.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003292_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[어린이 뮤지컬 〈바다탐험대 옥토넛 시즌3〉 바다넘어 육지까지 - 화성]]></title>
@@ -41,7 +41,7 @@
             <pubDate>Mon, 10 Mar 2025 15:10:20 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.11
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025030611272343.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003382_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 폴포츠 내한공연 : Prime Time - 함안]]></title>
@@ -86,7 +86,7 @@
             <pubDate>Mon, 10 Mar 2025 15:10:20 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.11
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_play.png" length="0" type="image/png"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003413_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[2025 서울연극창작센터 개관 페스티벌] 맹]]></title>
@@ -95,7 +95,7 @@
             <pubDate>Mon, 10 Mar 2025 15:10:20 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.11
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_play.png" length="0" type="image/png"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003100_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
