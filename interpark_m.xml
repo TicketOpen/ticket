@@ -4,26 +4,17 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 11:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 12:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[연극 핫식스]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54809</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54809</guid>
-            <pubDate>Tue, 11 Mar 2025 02:16:19 GMT</pubDate>
+            <title><![CDATA[2025 베스트셀러 뮤지컬〈누가 내 머리에 똥쌌어？〉-부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54667</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54667</guid>
+            <pubDate>Mon, 10 Mar 2025 15:10:20 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.11
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23003616_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[좀비연극 오마이갓]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54810</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54810</guid>
-            <pubDate>Tue, 11 Mar 2025 02:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.11
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23004562_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003421_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 브레드이발소 〈빵스타 대격돌〉 - 제주]]></title>
@@ -44,13 +35,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003292_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 베스트셀러 뮤지컬〈누가 내 머리에 똥쌌어？〉-부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54667</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54667</guid>
-            <pubDate>Mon, 10 Mar 2025 15:10:20 GMT</pubDate>
+            <title><![CDATA[연극 핫식스]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54809</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54809</guid>
+            <pubDate>Tue, 11 Mar 2025 02:16:19 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.11
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003421_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23003616_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[좀비연극 오마이갓]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54810</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54810</guid>
+            <pubDate>Tue, 11 Mar 2025 02:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23004562_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[어린이 뮤지컬 〈바다탐험대 옥토넛 시즌3〉 바다넘어 육지까지 - 화성]]></title>
@@ -80,22 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003078_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[인천동구문화체육센터 연극 〈톡톡〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54749</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54749</guid>
-            <pubDate>Tue, 11 Mar 2025 10:09:41 GMT</pubDate>
+            <title><![CDATA[[2025 서울연극창작센터 개관 페스티벌] 오브제극 〈시간을 칠하는 사람〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54704</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54704</guid>
+            <pubDate>Tue, 11 Mar 2025 12:15:35 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.11
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003442_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003282_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[최현우 19+I - 성남]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54752</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54752</guid>
-            <pubDate>Tue, 11 Mar 2025 10:09:41 GMT</pubDate>
+            <title><![CDATA[[2025 서울연극창작센터 개관 페스티벌] 이것은 실존과 생존과 이기에 대한 이야기]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54690</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54690</guid>
+            <pubDate>Tue, 11 Mar 2025 12:15:35 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.11
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002598_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003413_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
