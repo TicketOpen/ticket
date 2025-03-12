@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2025-03-12T07:10:08.681Z</updated>
+    <updated>2025-03-12T08:13:48.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[25.03.14(금)&nbsp;11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈이상한 과자가게 전천당 4 - 정체불명의 손님〉 - 인천]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54825&amp;groupno=54825&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54825&amp;groupno=54825&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-03-12T02:14:56.782Z</updated>
-        <content type="html"><![CDATA[25.03.18(화)&nbsp;13:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[디 오리지널 시리즈 2025 베토벤 페노메논 with 임현정]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54831&amp;groupno=54831&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54831&amp;groupno=54831&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -125,10 +118,17 @@
         <content type="html"><![CDATA[25.03.14(금)&nbsp;10:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[리사 오노 내한공연 2025 (대구)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54845&amp;groupno=54845&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54845&amp;groupno=54845&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-03-12T08:11:44.124Z</updated>
+        <content type="html"><![CDATA[25.03.18(화)&nbsp;10:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[리사 오노 내한공연 2025]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54830&amp;groupno=54830&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54830&amp;groupno=54830&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-03-12T02:14:56.786Z</updated>
-        <content type="html"><![CDATA[25.03.17(월)&nbsp;12:00]]></content>
+        <content type="html"><![CDATA[25.03.18(화)&nbsp;10:00]]></content>
     </entry>
 </feed>
