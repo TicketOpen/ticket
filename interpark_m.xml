@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 21:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 22:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2025 라이브가족뮤지컬 〈라푼젤〉 - 대전]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54689</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54689</guid>
-            <pubDate>Wed, 12 Mar 2025 15:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.13
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003590_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[2025 라이브 가족뮤지컬〈인어공주〉-인천]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54716</link>
@@ -33,6 +24,15 @@
             <content:encoded><![CDATA[2025.03.13
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003588_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 라이브가족뮤지컬 〈라푼젤〉 - 대전]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54689</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54689</guid>
+            <pubDate>Wed, 12 Mar 2025 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.13
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003590_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 삼남매 트롯콘서트-반가희×공훈×신미래 대구]]></title>
