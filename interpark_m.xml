@@ -4,27 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 03:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 04:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2025 라이브 가족뮤지컬〈아기돼지삼형제〉 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54747</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54747</guid>
-            <pubDate>Tue, 11 Mar 2025 16:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.12
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003392_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 라이브 가족뮤지컬〈알라딘〉 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54757</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54757</guid>
-            <pubDate>Tue, 11 Mar 2025 16:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.12
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003515_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[2025 라이브가족뮤지컬 〈인어공주〉 - 광주]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54692</link>
@@ -42,6 +24,24 @@
             <content:encoded><![CDATA[2025.03.12
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003523_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 라이브 가족뮤지컬〈아기돼지삼형제〉 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54747</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54747</guid>
+            <pubDate>Tue, 11 Mar 2025 16:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003392_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 라이브 가족뮤지컬〈알라딘〉 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54757</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54757</guid>
+            <pubDate>Tue, 11 Mar 2025 16:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003515_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 성남]]></title>
