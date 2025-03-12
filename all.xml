@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 09:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 10:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엘사의 생일파티- 강동​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61612</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61612</guid>
+            <pubDate>Wed, 12 Mar 2025 10:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.18(화) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 서울 앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61611</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61611</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.03.14(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61597</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61597</guid>
-            <pubDate>Tue, 11 Mar 2025 09:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.14(금) 00:00]]></content:encoded>
+            <title><![CDATA[엘사의 생일파티- 강동​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61612</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61612</guid>
+            <pubDate>Wed, 12 Mar 2025 10:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.18(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 서울 앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +790,6 @@
             <title><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 천안​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/61598</link>
             <guid>http://m.ticketlink.co.kr/help/notice/61598</guid>
-            <pubDate>Tue, 11 Mar 2025 09:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.14(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61597</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61597</guid>
             <pubDate>Tue, 11 Mar 2025 09:10:20 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.14(금) 00:00]]></content:encoded>
         </item>
