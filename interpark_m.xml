@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 05:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 07:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,15 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003515_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 성남]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54726</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54726</guid>
-            <pubDate>Tue, 11 Mar 2025 16:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.12
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003360_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 라이브가족뮤지컬 〈알라딘〉 - 목동]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54753</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54753</guid>
@@ -60,6 +51,15 @@
             <content:encoded><![CDATA[2025.03.12
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003526_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 성남]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54726</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54726</guid>
+            <pubDate>Tue, 11 Mar 2025 16:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.12
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003360_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 콘서트 -제주]]></title>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003455_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈슈퍼거북 슈퍼토끼〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54763</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54763</guid>
-            <pubDate>Wed, 12 Mar 2025 03:19:19 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈소란스러운 나의 서림에서〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54721</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54721</guid>
+            <pubDate>Wed, 12 Mar 2025 07:09:08 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.12
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011626_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003437_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
