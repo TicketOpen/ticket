@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-03-13T04:11:50.326Z</updated>
+    <updated>2025-03-13T05:10:35.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌8 [피에타 단독 콘서트 ‘난시’] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10085</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10085"/>
+        <updated>2025-03-13T05:09:13.245Z</updated>
+        <content type="html"><![CDATA[2025.03.20(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Woshi(우시) 정규 앨범 쇼케이스 콘서트 : Lost & Found 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10084</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10084"/>
+        <updated>2025-03-13T05:09:13.245Z</updated>
+        <content type="html"><![CDATA[2025.03.20(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zunhozoon (2016-2018) 추가공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10083</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10083"/>
+        <updated>2025-03-13T05:09:13.247Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Closer To Us season1 이범준 단독 콘서트 ‘BOYHOOD 2.0’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10082</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10082"/>
+        <updated>2025-03-13T05:09:13.262Z</updated>
+        <content type="html"><![CDATA[2025.03.18(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤종신 전국투어 콘서트 ‘그때’ - 고양 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10080</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10080"/>
+        <updated>2025-03-13T05:09:13.266Z</updated>
+        <content type="html"><![CDATA[2025.03.18(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홀린 단독콘서트 ‘For those who grieve’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10079</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10079"/>
+        <updated>2025-03-13T05:09:13.266Z</updated>
+        <content type="html"><![CDATA[2025.03.18(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌8 [피아노 슈게이저 단독 콘서트 ‘이미 없는 남극으로’] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10078</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10078"/>
+        <updated>2025-03-13T05:09:13.269Z</updated>
+        <content type="html"><![CDATA[2025.03.19(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽 [포져군단 단독 콘서트] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10077</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10077"/>
+        <updated>2025-03-13T05:09:13.269Z</updated>
+        <content type="html"><![CDATA[2025.03.19(수) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SS:umic Festival #4 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10076</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10076"/>
+        <updated>2025-03-13T05:09:13.270Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 ZUHO CONCERT 주주총회: DOMINION 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10075</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10075"/>
+        <updated>2025-03-13T05:09:13.271Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 19:00]]></content>
+    </entry>
 </feed>
