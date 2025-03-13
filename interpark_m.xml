@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 11:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 12:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,22 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003446_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈알라딘〉 한국 초연 (ALADDIN The Musical)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54715</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54715</guid>
-            <pubDate>Thu, 13 Mar 2025 11:08:31 GMT</pubDate>
+            <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 용인]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54803</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54803</guid>
+            <pubDate>Thu, 13 Mar 2025 12:15:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.13
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012498_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003597_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈바닷마을 다이어리〉 - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54739</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54739</guid>
-            <pubDate>Thu, 13 Mar 2025 11:08:31 GMT</pubDate>
+            <title><![CDATA[[ 2024-25 Theatre 이문세 ] - 서울]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54743</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54743</guid>
+            <pubDate>Thu, 13 Mar 2025 12:15:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.13
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003418_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0004231_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
