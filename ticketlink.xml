@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-13T02:18:10.193Z</updated>
+    <updated>2025-03-13T03:22:16.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 정동하 Prologue​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61619</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61619"/>
+        <updated>2025-03-13T03:21:59.037Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.13(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충북도립극단 <한 여름밤의 템페스트>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61618</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[이미자 전통가요 헌정 공연 <맥(脈)을 이음>​ 추가 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61603</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61603"/>
-        <updated>2025-03-12T05:10:31.323Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[경기광주] 뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61602</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61602"/>
         <updated>2025-03-12T05:10:31.323Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 05:00]]></content>
     </entry>

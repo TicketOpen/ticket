@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 02:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 03:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,6 +35,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003588_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[슈퍼팝 2025 코리아]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54843</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54843</guid>
+            <pubDate>Wed, 12 Mar 2025 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.13
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003618_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2025 삼남매 트롯콘서트-반가희×공훈×신미래 대구]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54770</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54770</guid>
@@ -62,40 +71,31 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003585_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼팝 2025 코리아]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54843</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54843</guid>
-            <pubDate>Wed, 12 Mar 2025 15:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.13
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003618_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[시우민 ‘WHEE!’ Special Stage]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54835</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54835</guid>
-            <pubDate>Wed, 12 Mar 2025 19:04:08 GMT</pubDate>
+            <title><![CDATA[2025 임창정 30주년 〈촌스러운 콘서트〉 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54530</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54530</guid>
+            <pubDate>Thu, 13 Mar 2025 03:21:16 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.13
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003446_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002653_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 용인]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54803</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54803</guid>
-            <pubDate>Thu, 13 Mar 2025 02:17:12 GMT</pubDate>
+            <title><![CDATA[〈미스터트롯3〉 전국투어 콘서트 - 인천]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54791</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54791</guid>
+            <pubDate>Thu, 13 Mar 2025 03:21:16 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.13
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003597_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003457_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[ 2024-25 Theatre 이문세 ] - 서울]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54743</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54743</guid>
-            <pubDate>Thu, 13 Mar 2025 02:17:12 GMT</pubDate>
+            <title><![CDATA[스위스 로망드 오케스트라 & 양인모]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54782</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54782</guid>
+            <pubDate>Thu, 13 Mar 2025 03:21:16 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.13
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0004231_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003136_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
