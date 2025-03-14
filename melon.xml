@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-03-14T10:10:08.094Z</updated>
+    <updated>2025-03-14T11:08:57.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[406호 프로젝트 정기공연 [406DAY] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10097</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10097"/>
+        <updated>2025-03-14T11:07:36.361Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이병찬 : Valentine Concert 2 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10096</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10096"/>
+        <updated>2025-03-14T11:07:36.362Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음성사서함 첫번째 단독 공연 “봄이라서 하는 말” 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10095</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10095"/>
+        <updated>2025-03-14T11:07:36.363Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[할로우잰 & 바닐라유니티 조인트 콘서트 : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10093</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10093"/>
+        <updated>2025-03-14T11:07:36.368Z</updated>
+        <content type="html"><![CDATA[2025.03.21(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2025’예비초등 필수관람 공연] 연극 아빠와 난 초등1학년_대구 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10092</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10092"/>
+        <updated>2025-03-14T11:07:36.369Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 지수연 팬미팅: BLOOMING LETTER 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10091</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10091"/>
+        <updated>2025-03-14T11:07:36.372Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손혜은 정규 1집 발매 콘서트 〈모자이크〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10090</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10090"/>
+        <updated>2025-03-14T11:07:36.373Z</updated>
+        <content type="html"><![CDATA[2025.03.21(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈퍼팝 2025 코리아 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10089</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10089"/>
+        <updated>2025-03-14T11:07:36.375Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑해준 그대만이 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10088</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10088"/>
+        <updated>2025-03-14T11:07:36.376Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dream Walker #6 : 허회경 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10087</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10087"/>
+        <updated>2025-03-14T11:07:36.377Z</updated>
+        <content type="html"><![CDATA[2025.03.19(수) 20:00]]></content>
+    </entry>
 </feed>
