@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 05:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 06:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대학로 연극 〈 급식왕 - 급식이사라졌다 〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54813</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54813</guid>
+            <pubDate>Thu, 13 Mar 2025 15:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017470_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 브레드이발소 〈빵스타 대격돌〉 - 고양]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54816</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54816</guid>
+            <pubDate>Thu, 13 Mar 2025 15:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003593_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 브레드이발소 〈빵스타 대격돌〉 - 천안]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54817</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54817</guid>
+            <pubDate>Thu, 13 Mar 2025 15:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003594_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[4D공포연극 〈스위치〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54703</link>
@@ -44,33 +71,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003439_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[대학로 연극 〈 급식왕 - 급식이사라졌다 〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54813</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54813</guid>
-            <pubDate>Thu, 13 Mar 2025 15:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.14
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017470_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 〈빵스타 대격돌〉 - 고양]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54816</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54816</guid>
-            <pubDate>Thu, 13 Mar 2025 15:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.14
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003593_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 〈빵스타 대격돌〉 - 천안]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54817</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54817</guid>
-            <pubDate>Thu, 13 Mar 2025 15:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.14
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003594_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[디 오리지널 시리즈 2025 베토벤 페노메논 with 임현정]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54831</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54831</guid>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003678_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 성남]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54849</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54849</guid>
-            <pubDate>Fri, 14 Mar 2025 05:09:22 GMT</pubDate>
+            <title><![CDATA[2025 폴포츠 내한공연 : Prime Time - 군산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54811</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54811</guid>
+            <pubDate>Fri, 14 Mar 2025 06:12:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.14
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003648_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003639_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
