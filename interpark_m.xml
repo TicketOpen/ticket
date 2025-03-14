@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 06:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 07:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,15 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001006_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 라이브가족뮤지컬 〈인어공주〉 - 서울(구로)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54746</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54746</guid>
-            <pubDate>Thu, 13 Mar 2025 15:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.14
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003653_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[코믹뮤직체력극 연극 〈신바람삼대〉 - 청주]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54761</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54761</guid>
@@ -69,6 +60,15 @@
             <content:encoded><![CDATA[2025.03.14
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003439_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 라이브가족뮤지컬 〈인어공주〉 - 서울(구로)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54746</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54746</guid>
+            <pubDate>Thu, 13 Mar 2025 15:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003653_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[디 오리지널 시리즈 2025 베토벤 페노메논 with 임현정]]></title>
