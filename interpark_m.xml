@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 00:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 02:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003678_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 성남]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54849</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54849</guid>
-            <pubDate>Thu, 13 Mar 2025 23:08:34 GMT</pubDate>
+            <title><![CDATA[2025 폴포츠 내한공연 : Prime Time - 군산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54811</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54811</guid>
+            <pubDate>Fri, 14 Mar 2025 02:15:51 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.14
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003648_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003639_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
