@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Mar 2025 07:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Mar 2025 08:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,24 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025031311022439.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Cotton Project III.]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54776</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54776</guid>
-            <pubDate>Fri, 14 Mar 2025 15:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.17
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003366_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛 시즌3 〈바다넘어 육지까지〉 -성남]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54781</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54781</guid>
-            <pubDate>Fri, 14 Mar 2025 15:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.17
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003725_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉 - 인천]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54840</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54840</guid>
@@ -89,13 +71,31 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025031310491161.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［피크닉#13］뮤지컬 〈도리안 그레이〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54870</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54870</guid>
-            <pubDate>Sat, 15 Mar 2025 07:08:05 GMT</pubDate>
+            <title><![CDATA[Cotton Project III.]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54776</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54776</guid>
+            <pubDate>Fri, 14 Mar 2025 15:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.17
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003366_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛 시즌3 〈바다넘어 육지까지〉 -성남]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54781</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54781</guid>
+            <pubDate>Fri, 14 Mar 2025 15:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.17
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003725_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈꽃의 비밀〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54807</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54807</guid>
+            <pubDate>Sat, 15 Mar 2025 08:10:20 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.17
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003254_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018192_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
