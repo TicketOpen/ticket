@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 03:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 04:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 김창완밴드 전국투어 콘서트 〈회상〉 - 경산 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54897&amp;groupno=54897&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54897&amp;groupno=54897&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 17 Mar 2025 04:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[25.03.18(화)&nbsp;10:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[NELL’S SEASON 2025 ‘Acoustic Concert 〈Still Sunset〉’ (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54901&amp;groupno=54901&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,13 +134,6 @@
             <content:encoded><![CDATA[25.03.19(수)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 정승환 팬콘서트 〈University of Seung Hwan〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54879&amp;groupno=54879&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54879&amp;groupno=54879&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 14 Mar 2025 05:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.31(월)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[설렘유발 계약동거 〈사빠디〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54819</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54819</guid>
@@ -150,15 +150,6 @@
             <content:encoded><![CDATA[2025.03.17
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003633_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 유키 구라모토 콘서트 Peacefully-여수 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54865</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54865</guid>
-            <pubDate>Fri, 14 Mar 2025 15:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.17
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003765_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 유키 구라모토 콘서트 Peacefully-원주 (인터파크 티켓 모바일)]]></title>
@@ -179,24 +170,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003749_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[Cotton Project III. (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54776</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54776</guid>
-            <pubDate>Fri, 14 Mar 2025 15:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.17
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003366_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛 시즌3 〈바다넘어 육지까지〉 -성남 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54781</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54781</guid>
-            <pubDate>Fri, 14 Mar 2025 15:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.17
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003725_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉 - 인천 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54840</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54840</guid>
@@ -213,6 +186,33 @@
             <content:encoded><![CDATA[2025.03.17
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003773_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 유키 구라모토 콘서트 Peacefully-여수 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54865</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54865</guid>
+            <pubDate>Fri, 14 Mar 2025 15:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.17
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003765_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Cotton Project III. (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54776</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54776</guid>
+            <pubDate>Fri, 14 Mar 2025 15:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.17
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003366_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛 시즌3 〈바다넘어 육지까지〉 -성남 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54781</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54781</guid>
+            <pubDate>Fri, 14 Mar 2025 15:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.17
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003725_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈꽃의 비밀〉 (인터파크 티켓 모바일)]]></title>
