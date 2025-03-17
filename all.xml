@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 00:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 02:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,55 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10088</guid>
             <pubDate>Mon, 17 Mar 2025 00:40:29 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.14(금) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디즈니 & 픽사 OST 콘서트 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54902&amp;groupno=54902&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54902&amp;groupno=54902&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 17 Mar 2025 02:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[25.03.18(화)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 세종 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54895&amp;groupno=54895&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54895&amp;groupno=54895&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 17 Mar 2025 02:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[25.03.20(목)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 시즌2 - 세종 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54894&amp;groupno=54894&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54894&amp;groupno=54894&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 17 Mar 2025 02:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[25.03.20(목)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[더 팬 드라마 OST 콘서트 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54893&amp;groupno=54893&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54893&amp;groupno=54893&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 17 Mar 2025 02:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[25.03.20(목)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 어린이,가족 오페라 〈헨젤과 그레텔〉 - 대구 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54892&amp;groupno=54892&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54892&amp;groupno=54892&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 17 Mar 2025 02:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[25.03.18(화)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마스크 연극 〈십이야〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54891&amp;groupno=54891&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54891&amp;groupno=54891&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 17 Mar 2025 02:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[25.03.19(수)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송승환의 가족뮤지컬 〈정글북〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54896&amp;groupno=54896&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54896&amp;groupno=54896&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 17 Mar 2025 02:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[25.04.10(목)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 유브이 쇼 in 유브이 텔 (인터파크 티켓)]]></title>
@@ -155,55 +204,6 @@
             <content:encoded><![CDATA[25.03.31(월)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 하현상 팬미팅 〈어느 날의 현상〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54878&amp;groupno=54878&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54878&amp;groupno=54878&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 14 Mar 2025 05:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.24(월)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최현우 19+I - 안산 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54877&amp;groupno=54877&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54877&amp;groupno=54877&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 14 Mar 2025 05:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.19(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[［대전］뮤지컬 번개맨 시즌2 〈번개맨!VS번개맨?〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54876&amp;groupno=54876&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54876&amp;groupno=54876&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 14 Mar 2025 05:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.18(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 부산 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54875&amp;groupno=54875&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54875&amp;groupno=54875&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 14 Mar 2025 05:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.19(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 부천 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54874&amp;groupno=54874&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54874&amp;groupno=54874&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 14 Mar 2025 04:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.19(수)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 고양 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54873&amp;groupno=54873&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54873&amp;groupno=54873&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 14 Mar 2025 04:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.19(수)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025 유키 구라모토 콘서트 Peacefully-진주 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54872&amp;groupno=54872&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54872&amp;groupno=54872&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 14 Mar 2025 02:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.17(월)&nbsp;10:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[설렘유발 계약동거 〈사빠디〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54819</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54819</guid>
@@ -220,15 +220,6 @@
             <content:encoded><![CDATA[2025.03.17
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003633_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 유키 구라모토 콘서트 Peacefully-여수 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54865</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54865</guid>
-            <pubDate>Fri, 14 Mar 2025 15:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.17
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003765_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 유키 구라모토 콘서트 Peacefully-원주 (인터파크 티켓 모바일)]]></title>
@@ -283,6 +274,15 @@
             <content:encoded><![CDATA[2025.03.17
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003773_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 유키 구라모토 콘서트 Peacefully-여수 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54865</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54865</guid>
+            <pubDate>Fri, 14 Mar 2025 15:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.17
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003765_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈꽃의 비밀〉 (인터파크 티켓 모바일)]]></title>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가족 뮤지컬 아기돼지 삼형제 in 완주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61643</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61643</guid>
+            <pubDate>Mon, 17 Mar 2025 02:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.17(월) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 콘서트 - 춘천​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61642</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61642</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.03.19(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어린이 체험학습 뮤지컬 <틀려도 괜찮아> - 부평 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61628</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61628</guid>
-            <pubDate>Fri, 14 Mar 2025 02:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.19(수) 00:00]]></content:encoded>
+            <title><![CDATA[가족 뮤지컬 아기돼지 삼형제 in 완주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61643</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61643</guid>
+            <pubDate>Mon, 17 Mar 2025 02:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.17(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 콘서트 - 춘천​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +790,6 @@
             <title><![CDATA[엘사의 생일파티- 대구 어린이세상​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/61629</link>
             <guid>http://m.ticketlink.co.kr/help/notice/61629</guid>
-            <pubDate>Fri, 14 Mar 2025 02:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.19(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어린이 체험학습 뮤지컬 <틀려도 괜찮아> - 부평 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61628</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61628</guid>
             <pubDate>Fri, 14 Mar 2025 02:16:34 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.19(수) 00:00]]></content:encoded>
         </item>
