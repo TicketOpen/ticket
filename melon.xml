@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-03-17T08:14:00.484Z</updated>
+    <updated>2025-03-17T09:11:58.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 Bye Bye Badman 단독 공연 ‘Bad Timing’ 추가 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10102</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10102"/>
+        <updated>2025-03-17T09:10:35.309Z</updated>
+        <content type="html"><![CDATA[2025.03.19(수) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 진호은 팬미팅 ‘호은주의보’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10101</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10101"/>
+        <updated>2025-03-17T09:10:35.311Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이지영 (빅마마) 단독콘서트 ‘봄날의 여유’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10100</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10100"/>
+        <updated>2025-03-17T09:10:35.321Z</updated>
+        <content type="html"><![CDATA[2025.03.24(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2025’예비초등 필수관람 공연] 연극 아빠와 난 초등1학년_김해 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10099</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10099"/>
+        <updated>2025-03-17T09:10:35.326Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[406호 프로젝트 정기공연 [406DAY] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10097</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10097"/>
+        <updated>2025-03-17T09:10:35.333Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이병찬 : Valentine Concert 2 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10096</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10096"/>
+        <updated>2025-03-17T09:10:35.339Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음성사서함 첫번째 단독 공연 “봄이라서 하는 말” 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10095</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10095"/>
+        <updated>2025-03-17T09:10:35.342Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바닐라유니티 단독콘서트 ‘NOT AGAIN‘ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10093</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10093"/>
+        <updated>2025-03-17T09:10:35.346Z</updated>
+        <content type="html"><![CDATA[2025.03.21(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2025’예비초등 필수관람 공연] 연극 아빠와 난 초등1학년_대구 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10092</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10092"/>
+        <updated>2025-03-17T09:10:35.347Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 지수연 팬미팅: BLOOMING LETTER 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10091</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10091"/>
+        <updated>2025-03-17T09:10:35.350Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 19:00]]></content>
+    </entry>
 </feed>
