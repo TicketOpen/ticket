@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 11:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 12:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -236,15 +236,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003807_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[432Mhz : 하모닉스 . 다프니 기네스의 세계 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1040</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1040</guid>
-            <pubDate>Mon, 17 Mar 2025 15:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.18
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025031216400660.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 광명 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54868</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54868</guid>
@@ -261,6 +252,15 @@
             <content:encoded><![CDATA[2025.03.18
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025031212402970.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[432Mhz : 하모닉스 . 다프니 기네스의 세계 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1040</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1040</guid>
+            <pubDate>Mon, 17 Mar 2025 15:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.18
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025031216400660.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니 & 픽사 OST 콘서트 (인터파크 티켓 모바일)]]></title>
@@ -299,13 +299,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003646_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[쿼드 제작] 베를리너 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54818</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54818</guid>
-            <pubDate>Tue, 18 Mar 2025 11:08:06 GMT</pubDate>
+            <title><![CDATA[2025 김창옥 토크콘서트 시즌 5 - 부산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54850</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54850</guid>
+            <pubDate>Tue, 18 Mar 2025 12:15:32 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.18
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003300_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003782_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[광주] 2025 베스트셀러 뮤지컬 [커다란방귀] 티켓오픈 안내 (예스24 티켓)]]></title>
