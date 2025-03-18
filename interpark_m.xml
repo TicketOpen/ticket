@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 05:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 06:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003646_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 김창옥 토크콘서트 시즌 5 - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54850</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54850</guid>
-            <pubDate>Tue, 18 Mar 2025 03:23:25 GMT</pubDate>
+            <title><![CDATA[[쿼드 제작] 베를리너]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54818</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54818</guid>
+            <pubDate>Tue, 18 Mar 2025 06:12:43 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.18
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003782_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003300_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
