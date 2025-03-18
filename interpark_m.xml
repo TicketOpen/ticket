@@ -4,27 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 17:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 18:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 고양]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54873</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54873</guid>
-            <pubDate>Tue, 18 Mar 2025 16:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.19
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025031317054936.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 부천]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54874</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54874</guid>
-            <pubDate>Tue, 18 Mar 2025 16:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.19
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025031317131248.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2025 라이브 가족뮤지컬〈미녀와야수〉 - 대구]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54858</link>
@@ -51,6 +33,24 @@
             <content:encoded><![CDATA[2025.03.19
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025031311533236.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 고양]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54873</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54873</guid>
+            <pubDate>Tue, 18 Mar 2025 16:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025031317054936.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 부천]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54874</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54874</guid>
+            <pubDate>Tue, 18 Mar 2025 16:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025031317131248.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[［서울］뮤지컬 번개맨 시즌2 - 여름맞이 특별공연 - 송파]]></title>
