@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 08:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 09:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10105</guid>
             <pubDate>Wed, 19 Mar 2025 05:09:21 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.21(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 라이브가족뮤지컬 〈프린세스공주〉 - 부산 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54952&amp;groupno=54952&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54952&amp;groupno=54952&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 19 Mar 2025 09:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[25.03.25(화)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈꼬마버스 타요 - 소원을 들어주는 요술 지팡이 대소동.. (인터파크 티켓)]]></title>
@@ -195,13 +202,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54935&amp;groupno=54935&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 19 Mar 2025 02:17:27 GMT</pubDate>
             <content:encoded><![CDATA[25.03.21(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[DAESUNG 2025 ASIA TOUR: D's WAVE IN SEOUL (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54934&amp;groupno=54934&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54934&amp;groupno=54934&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 18 Mar 2025 09:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[25.04.01(화)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 라이브 가족뮤지컬〈미녀와야수〉 - 대구 (인터파크 티켓 모바일)]]></title>
