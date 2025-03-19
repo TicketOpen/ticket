@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-03-19T06:13:43.867Z</updated>
+    <updated>2025-03-19T07:10:16.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 IVE THE 3RD FAN CONCERT 〈IVE SCOUT〉 추가 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10115</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10115"/>
+        <updated>2025-03-19T07:08:48.764Z</updated>
+        <content type="html"><![CDATA[2025.03.21(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 윤종신 전국투어 콘서트 ‘그때’ - 대전 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10113</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10105"/>
         <updated>2025-03-19T05:09:21.185Z</updated>
         <content type="html"><![CDATA[2025.03.21(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가리온 콘서트 ‘뿌리깊은 나무’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10104</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10104"/>
-        <updated>2025-03-19T05:09:21.187Z</updated>
-        <content type="html"><![CDATA[2025.03.25(화) 20:00]]></content>
     </entry>
 </feed>
