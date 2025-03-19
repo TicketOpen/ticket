@@ -1,8 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://mticket.interpark.com/Notice/</id>
-    <title>인터파크 티켓 모바일</title>
-    <updated>2025-03-19T20:10:50.836Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>인터파크 티켓 모바일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 19 Mar 2025 22:09:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 라이브가족뮤지컬 〈인어공주〉 - 대전]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54882</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54882</guid>
+            <pubDate>Wed, 19 Mar 2025 22:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.20
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003974_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 라이브가족뮤지컬 〈미녀와야수〉 - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54883</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54883</guid>
+            <pubDate>Wed, 19 Mar 2025 22:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.20
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004087_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 라이브가족뮤지컬 〈인어공주〉 - 청주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54867</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54867</guid>
+            <pubDate>Wed, 19 Mar 2025 22:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.20
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003975_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 시즌2 - 세종]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54894</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54894</guid>
+            <pubDate>Wed, 19 Mar 2025 22:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.20
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004003_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 세종]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54895</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54895</guid>
+            <pubDate>Wed, 19 Mar 2025 22:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.20
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004006_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[리사 오노 내한공연 2025]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54830</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54830</guid>
+            <pubDate>Wed, 19 Mar 2025 22:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.20
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003763_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[리사 오노 내한공연 2025 (대구)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54845</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54845</guid>
+            <pubDate>Wed, 19 Mar 2025 22:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.20
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003781_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈하트셉수트〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54860</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54860</guid>
+            <pubDate>Wed, 19 Mar 2025 22:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001185_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 헝키쇼 (HUNKY SHOW)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54916</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54916</guid>
+            <pubDate>Wed, 19 Mar 2025 22:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003978_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[〈THE이재훈_31년〉 단독 콘서트 수원공연]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54926</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54926</guid>
+            <pubDate>Wed, 19 Mar 2025 22:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003918_p.gif" length="0" type="image/gif"/>
+        </item>
+    </channel>
+</rss>
