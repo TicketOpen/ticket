@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 18:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 19:03:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,7 +81,7 @@
             <title><![CDATA[undefined (인터파크 티켓)]]></title>
             <link>https://TicketOpen.github.io/ticket/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket/all.xml</guid>
-            <pubDate>Wed, 19 Mar 2025 18:12:16 GMT</pubDate>
+            <pubDate>Wed, 19 Mar 2025 19:02:41 GMT</pubDate>
             <content:encoded><![CDATA[<td>티켓 서비스(Ticket)</td>
                   <td>2025-03-20 02:00~07:00 AM (KST)</td>]]></content:encoded>
         </item>
@@ -89,7 +89,7 @@
             <title><![CDATA[undefined (인터파크 티켓)]]></title>
             <link>https://TicketOpen.github.io/ticket/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket/all.xml</guid>
-            <pubDate>Wed, 19 Mar 2025 18:12:16 GMT</pubDate>
+            <pubDate>Wed, 19 Mar 2025 19:02:41 GMT</pubDate>
             <content:encoded><![CDATA[<td>투어 서비스(Tour)</td>
                   <td>2025-03-20 02:00~07:00 AM (KST)</td>]]></content:encoded>
         </item>
@@ -97,7 +97,7 @@
             <title><![CDATA[undefined (인터파크 티켓)]]></title>
             <link>https://TicketOpen.github.io/ticket/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket/all.xml</guid>
-            <pubDate>Wed, 19 Mar 2025 18:12:16 GMT</pubDate>
+            <pubDate>Wed, 19 Mar 2025 19:02:41 GMT</pubDate>
             <content:encoded><![CDATA[<td>트리플 코리아 서비스(Triple Korea)</td>
                   <td>2025-03-20 02:00~07:00 AM (KST)</td>]]></content:encoded>
         </item>
@@ -105,7 +105,7 @@
             <title><![CDATA[undefined (인터파크 티켓)]]></title>
             <link>https://TicketOpen.github.io/ticket/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket/all.xml</guid>
-            <pubDate>Wed, 19 Mar 2025 18:12:16 GMT</pubDate>
+            <pubDate>Wed, 19 Mar 2025 19:02:41 GMT</pubDate>
             <content:encoded><![CDATA[<td>글로벌 서비스(Global)</td>
                   <td>2025-03-20 02:00~07:00 AM (KST)</td>]]></content:encoded>
         </item>
