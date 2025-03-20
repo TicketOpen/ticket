@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-20T08:13:17.631Z</updated>
+    <updated>2025-03-20T09:11:00.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] DSAC 온 스테이지 <교집합> - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61686</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61686"/>
+        <updated>2025-03-20T09:10:53.684Z</updated>
+        <content type="html"><![CDATA[2025.03.21(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 마티 잉골드 127년 만의 전주 귀환 '빛의 향연'​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61685</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61672"/>
         <updated>2025-03-19T03:23:40.844Z</updated>
         <content type="html"><![CDATA[2025.03.20(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  Forest of Dreams 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61671</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61671"/>
-        <updated>2025-03-19T08:12:42.328Z</updated>
-        <content type="html"><![CDATA[2025.03.21(금) 04:00]]></content>
     </entry>
 </feed>
