@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 19:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 20:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,24 +152,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004197_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈드라랄라 치과〉 - 안산 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54924</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54924</guid>
-            <pubDate>Thu, 20 Mar 2025 15:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.21
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004054_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[인천] 가족뮤지컬 〈꼬마버스 타요 - 소원을 들어주는 요술 지팡이 대소동〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54925</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54925</guid>
-            <pubDate>Thu, 20 Mar 2025 15:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.21
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004083_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[[부산] 가족뮤지컬 〈꼬마버스 타요 - 소원을 들어주는 요술 지팡이 대소동〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54921</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54921</guid>
@@ -186,6 +168,24 @@
             <content:encoded><![CDATA[2025.03.21
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004013_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈드라랄라 치과〉 - 안산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54924</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54924</guid>
+            <pubDate>Thu, 20 Mar 2025 15:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.21
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004054_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[인천] 가족뮤지컬 〈꼬마버스 타요 - 소원을 들어주는 요술 지팡이 대소동〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54925</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54925</guid>
+            <pubDate>Thu, 20 Mar 2025 15:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.21
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004083_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 시즌2 - 진주 (인터파크 티켓 모바일)]]></title>
