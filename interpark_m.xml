@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 09:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 10:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,22 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001185_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 헝키쇼 (HUNKY SHOW)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54916</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54916</guid>
-            <pubDate>Thu, 20 Mar 2025 09:09:58 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈인간탐구생활〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54903</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54903</guid>
+            <pubDate>Thu, 20 Mar 2025 10:09:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.20
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003978_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000716_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[〈THE이재훈_31년〉 단독 콘서트 수원공연]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54926</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54926</guid>
-            <pubDate>Thu, 20 Mar 2025 09:09:58 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈명성황후〉 30주년 기념 공연 - 울산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54910</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54910</guid>
+            <pubDate>Thu, 20 Mar 2025 10:09:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.20
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003918_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003369_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
