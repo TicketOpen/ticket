@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 07:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 08:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,7 +89,7 @@
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54966&amp;groupno=54966&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54966&amp;groupno=54966&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 20 Mar 2025 05:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.25(화)&nbsp;14:00]]></content:encoded>
+            <content:encoded><![CDATA[25.03.25(화)&nbsp;13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈우리 노래방 가서... 얘기 좀 할까？〉 (인터파크 티켓)]]></title>
@@ -308,6 +308,13 @@
             <content:encoded><![CDATA[2025.03.27(목) 14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[부산] 2025 라이브가족뮤지컬 [프린세스공주] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15798</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15798</guid>
+            <pubDate>Thu, 20 Mar 2025 08:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.25(화) 10:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[대구] 어린이 서커스 마술쇼 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15797</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15797</guid>
@@ -427,13 +434,6 @@
             <content:encoded><![CDATA[2025.03.21(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [조선 이야기꾼 전기수] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15780</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15780</guid>
-            <pubDate>Wed, 19 Mar 2025 08:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.24(월) 11:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [니진스키] 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15800&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15800&amp;order=1</guid>
@@ -446,6 +446,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15799&amp;order=1</guid>
             <pubDate>Thu, 20 Mar 2025 05:10:24 GMT</pubDate>
             <content:encoded><![CDATA[2025-03-27(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[부산] 2025 라이브가족뮤지컬 [프린세스공주] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15798&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15798&amp;order=1</guid>
+            <pubDate>Thu, 20 Mar 2025 08:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025-03-25(화) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대구] 어린이 서커스 마술쇼 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -495,13 +502,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15791&amp;order=1</guid>
             <pubDate>Wed, 19 Mar 2025 02:17:58 GMT</pubDate>
             <content:encoded><![CDATA[2025-03-26(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025 우디 콘서트 〈Woody, Live〉 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15790&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15790&amp;order=1</guid>
-            <pubDate>Wed, 19 Mar 2025 06:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[2025-03-21(금) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -582,6 +582,27 @@
             <pubDate>Thu, 21 Nov 2024 04:11:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.17(월) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 마티 잉골드 127년 만의 전주 귀환 '빛의 향연'​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61685</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61685</guid>
+            <pubDate>Thu, 20 Mar 2025 08:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.21(금) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> - 용인 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61684</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61684</guid>
+            <pubDate>Thu, 20 Mar 2025 08:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.21(금) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 김경호 전국투어 콘서트 - 서울 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61683</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61683</guid>
+            <pubDate>Thu, 20 Mar 2025 08:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.21(금) 03:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> - 성남​​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -668,25 +689,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.03.21(금) 04:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조항조 전국투어 콘서트 : 생각 -  광주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61670</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61670</guid>
-            <pubDate>Wed, 19 Mar 2025 08:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.25(화) 02:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 마티 잉골드 127년 만의 전주 귀환 '빛의 향연'​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61685</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61685</guid>
+            <pubDate>Thu, 20 Mar 2025 08:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.21(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​2025 김창옥 토크콘서트 시즌 5 - 김해​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61669</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61669</guid>
-            <pubDate>Wed, 19 Mar 2025 05:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.25(화) 05:00]]></content:encoded>
+            <title><![CDATA[2025 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> - 용인 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61684</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61684</guid>
+            <pubDate>Thu, 20 Mar 2025 08:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.21(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 이승철 콘서트 <오케스트락2> 수원공연​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61668</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61668</guid>
-            <pubDate>Wed, 19 Mar 2025 05:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.24(월) 05:00]]></content:encoded>
+            <title><![CDATA[2025 김경호 전국투어 콘서트 - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61683</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61683</guid>
+            <pubDate>Thu, 20 Mar 2025 08:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.21(금) 03:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> - 성남​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -771,27 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61671</guid>
             <pubDate>Wed, 19 Mar 2025 08:12:42 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.21(금) 04:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조항조 전국투어 콘서트 : 생각 -  광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61670</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61670</guid>
-            <pubDate>Wed, 19 Mar 2025 08:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.25(화) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2025 김창옥 토크콘서트 시즌 5 - 김해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61669</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61669</guid>
-            <pubDate>Wed, 19 Mar 2025 05:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.25(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025 이승철 콘서트 <오케스트락2> 수원공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61668</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61668</guid>
-            <pubDate>Wed, 19 Mar 2025 05:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.24(월) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
