@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-21T05:10:33.954Z</updated>
+    <updated>2025-03-21T06:15:27.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미기쇼 콘서트! 좋은 기운 한가득 라이브쇼!​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61694</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61694"/>
+        <updated>2025-03-21T06:15:20.741Z</updated>
+        <content type="html"><![CDATA[2025.03.24(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  2025 스텔라장 정규 2집 발매 기념 단독 콘서트 ‘What Makes You?’ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61693</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/61678</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61678"/>
         <updated>2025-03-20T03:22:20.269Z</updated>
-        <content type="html"><![CDATA[2025.03.21(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​한국가곡극 <인생은 아름다워> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61677</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61677"/>
-        <updated>2025-03-20T02:17:54.438Z</updated>
         <content type="html"><![CDATA[2025.03.21(금) 01:00]]></content>
     </entry>
 </feed>
