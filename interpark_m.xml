@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 06:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 07:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,22 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003051_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[이승환 35주년 콘서트 〈HEAVEN〉 - 포천]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54900</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54900</guid>
-            <pubDate>Fri, 21 Mar 2025 06:14:34 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈명성황후〉 30주년 기념 공연 - 김해]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54917</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54917</guid>
+            <pubDate>Fri, 21 Mar 2025 07:09:34 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.21
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004088_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004041_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[허용별콘서트 : 보컬전쟁 시즌2 - "The War of Vocalists II" - 서울]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54904</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54904</guid>
-            <pubDate>Fri, 21 Mar 2025 06:14:34 GMT</pubDate>
+            <title><![CDATA[2025 이승철 콘서트 〈오케스트락2〉 대구공연]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54935</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54935</guid>
+            <pubDate>Fri, 21 Mar 2025 07:09:34 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.21
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004057_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001069_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
