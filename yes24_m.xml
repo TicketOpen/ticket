@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-24T00:42:44.111Z</updated>
+    <updated>2025-03-24T02:22:57.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[모스크바 라 클라시크 발레단 월드투어〈백조의 호수〉- 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15808&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15808&amp;order=1"/>
+        <updated>2025-03-24T02:22:22.993Z</updated>
+        <content type="html"><![CDATA[2025-03-31(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모스크바 라 클라시크 발레단 월드투어〈백조의 호수〉- 고양 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15807&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15807&amp;order=1"/>
+        <updated>2025-03-24T02:22:22.994Z</updated>
+        <content type="html"><![CDATA[2025-03-31(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 뮤지컬 <여신님이 보고 계셔> - 광주공연 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15806&amp;order=1</id>
@@ -18,6 +32,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15805&amp;order=1"/>
         <updated>2025-03-21T06:14:53.467Z</updated>
         <content type="html"><![CDATA[2025-03-28(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[구로] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15804&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15804&amp;order=1"/>
+        <updated>2025-03-24T02:22:22.997Z</updated>
+        <content type="html"><![CDATA[2025-03-27(목) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 [나생문] 티켓오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15799&amp;order=1"/>
         <updated>2025-03-20T05:10:24.915Z</updated>
         <content type="html"><![CDATA[2025-03-27(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [프린세스공주] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15798&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15798&amp;order=1"/>
-        <updated>2025-03-20T08:12:37.317Z</updated>
-        <content type="html"><![CDATA[2025-03-25(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 어린이 서커스 마술쇼 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15797&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15797&amp;order=1"/>
-        <updated>2025-03-20T02:17:25.849Z</updated>
-        <content type="html"><![CDATA[2025-03-25(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [소란스러운 나의 서림에서] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15796&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15796&amp;order=1"/>
-        <updated>2025-03-20T05:10:24.915Z</updated>
-        <content type="html"><![CDATA[2025-03-27(목) 11:00]]></content>
     </entry>
 </feed>
