@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Mar 2025 06:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 07:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10116</guid>
             <pubDate>Mon, 24 Mar 2025 05:09:40 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.21(금) 21:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈너의 결혼식〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55004&amp;groupno=55004&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55004&amp;groupno=55004&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 24 Mar 2025 07:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[25.03.28(금)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈명성황후〉 30주년 기념 공연 - 광주 (인터파크 티켓)]]></title>
@@ -188,13 +195,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54991&amp;groupno=54991&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 21 Mar 2025 08:11:59 GMT</pubDate>
             <content:encoded><![CDATA[25.03.25(화)&nbsp;16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈긴긴밤〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54986&amp;groupno=54986&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54986&amp;groupno=54986&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 21 Mar 2025 07:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.26(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[〈G-STAGE Vol.5〉 지소쿠리클럽 콘서트 (인터파크 티켓)]]></title>
