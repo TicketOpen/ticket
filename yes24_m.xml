@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-24T02:22:57.114Z</updated>
+    <updated>2025-03-24T03:29:42.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 영동세계국악엑스포 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15811&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15811&amp;order=1"/>
+        <updated>2025-03-24T03:29:01.809Z</updated>
+        <content type="html"><![CDATA[2025-04-01(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한지호 피아노 리사이틀 〈어린왕자〉 티켓오픈 안내입니다.]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15810&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15810&amp;order=1"/>
+        <updated>2025-03-24T03:29:01.825Z</updated>
+        <content type="html"><![CDATA[2025-03-25(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 김희재 콘서트 ‘HEERE WE GO’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15809&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15809&amp;order=1"/>
+        <updated>2025-03-24T03:29:01.825Z</updated>
+        <content type="html"><![CDATA[2025-03-27(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모스크바 라 클라시크 발레단 월드투어〈백조의 호수〉- 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15808&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15802&amp;order=1"/>
         <updated>2025-03-21T03:24:07.757Z</updated>
         <content type="html"><![CDATA[2025-03-31(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악극 [노베첸토] 2차 티켓 오픈 공지]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15801&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15801&amp;order=1"/>
-        <updated>2025-03-21T02:18:57.183Z</updated>
-        <content type="html"><![CDATA[2025-03-26(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [니진스키] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15800&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15800&amp;order=1"/>
-        <updated>2025-03-20T05:10:24.915Z</updated>
-        <content type="html"><![CDATA[2025-03-25(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [우리 노래방 가서… 얘기 좀 할까] 마지막 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15799&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15799&amp;order=1"/>
-        <updated>2025-03-20T05:10:24.915Z</updated>
-        <content type="html"><![CDATA[2025-03-27(목) 14:00]]></content>
     </entry>
 </feed>
