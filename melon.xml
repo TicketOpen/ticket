@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-03-24T10:11:20.928Z</updated>
+    <updated>2025-03-24T11:09:43.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[현재, 너와 나의 Memories 1st FanMeeting 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10129</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10129"/>
-        <updated>2025-03-24T09:10:10.037Z</updated>
-        <content type="html"><![CDATA[2025.03.25(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sora Kim 2nd Album Release Concert 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10128</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10128"/>
-        <updated>2025-03-24T05:09:40.799Z</updated>
-        <content type="html"><![CDATA[2025.04.01(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청춘기행 下 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10127</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10127"/>
-        <updated>2025-03-24T05:09:40.803Z</updated>
-        <content type="html"><![CDATA[2025.03.24(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중식이 밴드 X 천진우 2025 와따리 가따리 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10125</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10125"/>
-        <updated>2025-03-24T05:09:40.803Z</updated>
-        <content type="html"><![CDATA[2025.03.24(월) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컬러풀 스테이지 #12 난파란 & 아사달 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10123</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10123"/>
-        <updated>2025-03-24T05:09:40.803Z</updated>
-        <content type="html"><![CDATA[2025.03.24(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종신 전국투어 콘서트 ‘그때’ - 광주 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10122</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10122"/>
-        <updated>2025-03-24T05:09:40.806Z</updated>
-        <content type="html"><![CDATA[2025.03.24(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기프트 단독콘서트 ‘초심’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10120</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10120"/>
-        <updated>2025-03-24T05:09:40.806Z</updated>
-        <content type="html"><![CDATA[2025.03.28(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맥거핀 8주년 기념 단독 콘서트 [MR. Celebration] 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10119</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10119"/>
-        <updated>2025-03-24T05:09:40.810Z</updated>
-        <content type="html"><![CDATA[2025.03.27(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제17회 서울재즈페스티벌 2025 2차 라인업 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10118</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10118"/>
-        <updated>2025-03-24T05:09:40.811Z</updated>
-        <content type="html"><![CDATA[2025.02.27(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅타임 (BIG TIME) : 생일파티 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10117</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10117"/>
-        <updated>2025-03-24T05:09:40.811Z</updated>
-        <content type="html"><![CDATA[2025.03.22(토) 12:00]]></content>
-    </entry>
 </feed>
