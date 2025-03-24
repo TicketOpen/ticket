@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Mar 2025 03:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 04:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세종솔로이스츠 실내악 시리즈: 베토벤과 강석희, 그리고 진은숙 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54999&amp;groupno=54999&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54999&amp;groupno=54999&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 24 Mar 2025 04:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[25.03.27(목)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지브리 OST 콘서트 : 디 오케스트라 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54998&amp;groupno=54998&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54998&amp;groupno=54998&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 24 Mar 2025 04:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[25.03.26(수)&nbsp;16:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[상상파트너즈 콘서트 〈KNOCK LOCK ROCK : 파츠, 해서웨이〉 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54997&amp;groupno=54997&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -106,20 +120,6 @@
             <content:encoded><![CDATA[25.03.24(월)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈6시 퇴근〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54981&amp;groupno=54981&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54981&amp;groupno=54981&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 21 Mar 2025 06:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.25(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[진격의 거인 오피셜 콘서트 - Beyond the Walls World Tour - (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54980&amp;groupno=54980&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54980&amp;groupno=54980&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 21 Mar 2025 06:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.26(수)&nbsp;18:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[윤종신 전국투어 콘서트 ‘그때’ - 광주 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54983&amp;groupno=54983&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54983&amp;groupno=54983&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -161,15 +161,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004322_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 현역가왕2 전국투어 콘서트 - 전주 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54940</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54940</guid>
-            <pubDate>Fri, 21 Mar 2025 15:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.24
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004084_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 이승철 콘서트 〈오케스트락2〉 수원공연 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54945</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54945</guid>
@@ -177,6 +168,15 @@
             <content:encoded><![CDATA[2025.03.24
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004310_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 현역가왕2 전국투어 콘서트 - 전주 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54940</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54940</guid>
+            <pubDate>Fri, 21 Mar 2025 15:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.24
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004084_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈사랑은 비를 타고〉 30주년 공연 (인터파크 티켓 모바일)]]></title>
