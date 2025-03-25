@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 08:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 09:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,15 +53,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002688_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[더 팬 드라마 OST 콘서트 WITH 미라클라스]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54974</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54974</guid>
-            <pubDate>Tue, 25 Mar 2025 06:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003856_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[피아노 배틀 - 대전]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54959</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54959</guid>
@@ -89,13 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004145_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 대전]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54919</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54919</guid>
-            <pubDate>Tue, 25 Mar 2025 06:13:18 GMT</pubDate>
+            <title><![CDATA[2025 김창옥 토크콘서트 시즌5 - 구미]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54946</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54946</guid>
+            <pubDate>Tue, 25 Mar 2025 09:09:43 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.25
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004172_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004331_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 김창옥 토크콘서트 시즌 5 - 김해]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54942</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54942</guid>
+            <pubDate>Tue, 25 Mar 2025 09:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004285_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
