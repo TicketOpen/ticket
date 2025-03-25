@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 22:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 23:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -161,15 +161,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004483_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈구텐버그〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54937</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54937</guid>
-            <pubDate>Tue, 25 Mar 2025 15:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.26
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004494_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈긴긴밤〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54986</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54986</guid>
@@ -177,6 +168,15 @@
             <content:encoded><![CDATA[2025.03.26
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001816_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈구텐버그〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54937</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54937</guid>
+            <pubDate>Tue, 25 Mar 2025 15:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004494_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈명성황후〉 30주년 기념 공연 - 광주 (인터파크 티켓 모바일)]]></title>
