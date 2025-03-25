@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-03-25T05:10:38.219Z</updated>
+    <updated>2025-03-25T06:14:17.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[「체크인 한양」드라마 팬미팅 in TOKYO ～체크인 하시겠습니까?～ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10131</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10131"/>
+        <updated>2025-03-25T06:12:48.856Z</updated>
+        <content type="html"><![CDATA[2025.03.27(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현재, 너와 나의 Memories 1st FanMeeting 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10129</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10118"/>
         <updated>2025-03-25T04:11:12.438Z</updated>
         <content type="html"><![CDATA[2025.02.27(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅타임 (BIG TIME) : 생일파티 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10117</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10117"/>
-        <updated>2025-03-25T04:11:12.442Z</updated>
-        <content type="html"><![CDATA[2025.03.22(토) 12:00]]></content>
     </entry>
 </feed>
