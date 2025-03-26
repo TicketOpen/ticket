@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 08:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 10:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004483_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈구텐버그〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54937</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54937</guid>
-            <pubDate>Tue, 25 Mar 2025 15:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.26
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004494_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈긴긴밤〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54986</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54986</guid>
@@ -51,6 +42,15 @@
             <content:encoded><![CDATA[2025.03.26
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001816_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈구텐버그〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54937</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54937</guid>
+            <pubDate>Tue, 25 Mar 2025 15:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004494_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈명성황후〉 30주년 기념 공연 - 광주]]></title>
@@ -71,6 +71,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001733_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[생추어리 시티 Sanctuary City]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54949</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54949</guid>
+            <pubDate>Wed, 26 Mar 2025 10:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.26
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001051_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[［장애인 선예매］ 생추어리 시티 Sanctuary City]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54950</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54950</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2025.03.26
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004223_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[지브리 OST 콘서트 : 디 오케스트라]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54998</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54998</guid>
-            <pubDate>Tue, 25 Mar 2025 15:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.26
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004191_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
