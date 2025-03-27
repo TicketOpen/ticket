@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 12:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 13:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[그리스 로마 신화 〈신들의 왕 제우스〉 - 구로]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55020</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55020</guid>
-            <pubDate>Wed, 26 Mar 2025 15:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.27
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004582_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 천안]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54993</link>
@@ -24,6 +15,15 @@
             <content:encoded><![CDATA[2025.03.27
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004577_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[그리스 로마 신화 〈신들의 왕 제우스〉 - 구로]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55020</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55020</guid>
+            <pubDate>Wed, 26 Mar 2025 15:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.27
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004582_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈소란스러운 나의 서림에서〉]]></title>
@@ -62,6 +62,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002707_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2025 뮤지컬 〈여신님이 보고 계셔〉 - 광주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54989</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54989</guid>
+            <pubDate>Wed, 26 Mar 2025 15:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004371_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[찰리아저씨의 마술공장]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54961</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54961</guid>
@@ -78,15 +87,6 @@
             <content:encoded><![CDATA[2025.03.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003493_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 뮤지컬 〈여신님이 보고 계셔〉 - 광주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54989</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54989</guid>
-            <pubDate>Wed, 26 Mar 2025 15:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004371_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 성남]]></title>
