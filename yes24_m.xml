@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-27T00:40:38.400Z</updated>
+    <updated>2025-03-27T03:25:22.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[괴담 스페셜쇼 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15826&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15826&amp;order=1"/>
+        <updated>2025-03-27T03:24:42.190Z</updated>
+        <content type="html"><![CDATA[2025-03-28(금) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 푸에르자 부르타 〈아벤〉 - 서울 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15825&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15825&amp;order=1"/>
+        <updated>2025-03-27T03:24:42.195Z</updated>
+        <content type="html"><![CDATA[2025-04-01(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최태지 발레드림(Ballet Dream) 티켓 오픈일정 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15824&amp;order=1</id>
@@ -17,7 +31,7 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15823&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15823&amp;order=1"/>
         <updated>2025-03-26T08:12:49.340Z</updated>
-        <content type="html"><![CDATA[2025-03-28(금) 14:00]]></content>
+        <content type="html"><![CDATA[2025-03-31(월) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2025 베스트셀러 뮤지컬 [콧구멍을 후비면] 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15817&amp;order=1"/>
         <updated>2025-03-25T05:10:00.912Z</updated>
         <content type="html"><![CDATA[2025-04-07(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [배니싱] 5차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15816&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15816&amp;order=1"/>
-        <updated>2025-03-25T05:10:00.913Z</updated>
-        <content type="html"><![CDATA[2025-04-01(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15815&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15815&amp;order=1"/>
-        <updated>2025-03-25T04:11:55.152Z</updated>
-        <content type="html"><![CDATA[2025-03-31(월) 10:00]]></content>
     </entry>
 </feed>

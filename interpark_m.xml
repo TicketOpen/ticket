@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 00:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 03:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,6 +33,24 @@
             <content:encoded><![CDATA[2025.03.27
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003437_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[MIKA NAKASHIMA ASIA TOUR 2025 in SEOUL]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55035</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55035</guid>
+            <pubDate>Thu, 27 Mar 2025 03:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.27
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000444_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Hissue 시리즈 Ⅰ 〈All That Romantic〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55024</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55024</guid>
+            <pubDate>Wed, 26 Mar 2025 15:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004523_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈우리 노래방 가서... 얘기 좀 할까？〉]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2025.03.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004472_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[Hissue 시리즈 Ⅰ 〈All That Romantic〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55024</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55024</guid>
-            <pubDate>Wed, 26 Mar 2025 15:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004523_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈도리안 그레이〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55014</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55014</guid>
-            <pubDate>Wed, 26 Mar 2025 15:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.27
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001547_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
