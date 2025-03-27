@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-03-27T19:03:28.470Z</updated>
+    <updated>2025-03-27T20:10:48.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Closer To Us season1 Wynn(윈) 단독 콘서트 ‘TAKE A WALK’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10145</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10145"/>
+        <updated>2025-03-27T20:09:18.975Z</updated>
+        <content type="html"><![CDATA[2025.04.01(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NAZCA RECORDS CONCERT [나즈카 레코드 콘서트] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10144</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10144"/>
+        <updated>2025-03-27T20:09:18.976Z</updated>
+        <content type="html"><![CDATA[2025.04.03(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌8 Try Again [안다영 단독 콘서트] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10143</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10143"/>
+        <updated>2025-03-27T20:09:18.978Z</updated>
+        <content type="html"><![CDATA[2025.04.02(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dive Right into Indie [난파란 단독공연] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10140</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10140"/>
+        <updated>2025-03-27T20:09:18.980Z</updated>
+        <content type="html"><![CDATA[2025.03.27(목) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 보라미유 단독콘서트 ‘있잖아’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10139</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10139"/>
+        <updated>2025-03-27T20:09:18.988Z</updated>
+        <content type="html"><![CDATA[2025.03.28(금) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[앵콜 특가]시네마 천국 이머시브 특별전-투.토토 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10138</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10138"/>
+        <updated>2025-03-27T20:09:18.990Z</updated>
+        <content type="html"><![CDATA[2025.04.01(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[발레드림(Ballet Dream) 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10137</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10137"/>
+        <updated>2025-03-27T20:09:18.990Z</updated>
+        <content type="html"><![CDATA[2025.03.28(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤종신 전국투어 콘서트 ‘그때’ - 부산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10136</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10136"/>
+        <updated>2025-03-27T20:09:18.995Z</updated>
+        <content type="html"><![CDATA[2025.04.01(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시인을 위하여 정규 일집 발매 기념 쇼케이스 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10135</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10135"/>
+        <updated>2025-03-27T20:09:19.006Z</updated>
+        <content type="html"><![CDATA[2025.03.31(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숨비 단독콘서트 STAGE&SHOT 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10134</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10134"/>
+        <updated>2025-03-27T20:09:19.006Z</updated>
+        <content type="html"><![CDATA[2025.03.31(월) 18:00]]></content>
+    </entry>
 </feed>
