@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 21:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 22:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004634_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[영등포아트홀 기획공연 [ 작은 할머니 ]]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55025</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55025</guid>
-            <pubDate>Thu, 27 Mar 2025 20:09:44 GMT</pubDate>
+            <title><![CDATA[［2025 발레축제］ conneXion, 최태지X문훈숙]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55021</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55021</guid>
+            <pubDate>Thu, 27 Mar 2025 22:08:23 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.28
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004612_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004522_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
