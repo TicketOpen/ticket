@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 03:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 04:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -512,6 +512,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매]  ​Promenade Live Session​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61724</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61724</guid>
+            <pubDate>Fri, 28 Mar 2025 04:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.31(월) 10:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 광주시립창극단 특별기획공연 '판소리 감상회'​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61723</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61723</guid>
@@ -610,11 +617,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.03.31(월) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <배니싱> 5차​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61709</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61709</guid>
-            <pubDate>Tue, 25 Mar 2025 09:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.01(화) 02:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  ​Promenade Live Session​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61724</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61724</guid>
+            <pubDate>Fri, 28 Mar 2025 04:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.31(월) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 광주시립창극단 특별기획공연 '판소리 감상회'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -713,13 +720,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61710</guid>
             <pubDate>Tue, 25 Mar 2025 10:10:50 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.31(월) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <배니싱> 5차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61709</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61709</guid>
-            <pubDate>Tue, 25 Mar 2025 09:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.01(화) 02:00]]></content:encoded>
         </item>
     </channel>
 </rss>
