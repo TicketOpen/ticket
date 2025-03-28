@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 00:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 02:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,13 +26,49 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004418_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[허용별 콘서트 : 보컬 전쟁 시즌2 “The War of Vocalists II” - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55000</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55000</guid>
-            <pubDate>Thu, 27 Mar 2025 17:08:56 GMT</pubDate>
+            <title><![CDATA[자우림 팬 콘서트 '러브공작단 시크릿 쥬-주 총회']]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55011</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55011</guid>
+            <pubDate>Thu, 27 Mar 2025 15:09:39 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.28
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20250324125517.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004634_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[영등포아트홀 기획공연 [ 작은 할머니 ]]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55025</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55025</guid>
+            <pubDate>Fri, 28 Mar 2025 02:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004612_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[옥주현 with Friends 뮤지컬 콘서트 - 춘천]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55026</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55026</guid>
+            <pubDate>Fri, 28 Mar 2025 02:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_concert.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[［2025 발레축제］ conneXion, 최태지X문훈숙]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55021</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55021</guid>
+            <pubDate>Thu, 27 Mar 2025 22:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004522_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[최현우 19+I - 대전]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55029</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55029</guid>
+            <pubDate>Fri, 28 Mar 2025 02:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004484_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤직드라마 〈불편한 편의점〉 - 올웨이즈씨어터]]></title>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2025.03.28
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005493_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[〈G-STAGE Vol.5〉 지소쿠리클럽 콘서트]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54990</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54990</guid>
-            <pubDate>Thu, 27 Mar 2025 17:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003470_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[신구·박근형의 〈고도를 기다리며〉 THE FINAL]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54992</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54992</guid>
-            <pubDate>Thu, 27 Mar 2025 17:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004574_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 팬 콘서트 '러브공작단 시크릿 쥬-주 총회']]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55011</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55011</guid>
-            <pubDate>Thu, 27 Mar 2025 15:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004634_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[［2025 발레축제］ conneXion, 최태지X문훈숙]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55021</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55021</guid>
-            <pubDate>Thu, 27 Mar 2025 22:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004522_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
