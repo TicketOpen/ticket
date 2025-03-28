@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 02:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 03:27:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉 - 용인 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55051&amp;groupno=55051&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55051&amp;groupno=55051&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 28 Mar 2025 03:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[25.04.02(수)&nbsp;10:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈슈퍼윙스 - 초능력 곤충 대소동〉 - 부산 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55048&amp;groupno=55048&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -83,13 +90,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55036&amp;groupno=55036&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 27 Mar 2025 05:09:28 GMT</pubDate>
             <content:encoded><![CDATA[25.04.02(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[페이 웹스터 내한공연 (Faye Webster LIVE IN SEOUL 2025) (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55033&amp;groupno=55033&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55033&amp;groupno=55033&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 27 Mar 2025 03:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[25.04.02(수)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MIKA NAKASHIMA ASIA TOUR 2025 in SEOUL (인터파크 티켓)]]></title>
@@ -224,6 +224,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005493_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15829</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15829</guid>
+            <pubDate>Fri, 28 Mar 2025 03:26:21 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.04(금) 12:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 [라흐 헤스트] 3차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15828</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15828</guid>
@@ -356,11 +363,11 @@
             <content:encoded><![CDATA[2025.03.25(화) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15809</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15809</guid>
-            <pubDate>Mon, 24 Mar 2025 03:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.27(목) 20:00]]></content:encoded>
+            <title><![CDATA[제임스 블레이크 내한공연 James Blake Live in Seoul 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15829&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15829&amp;order=1</guid>
+            <pubDate>Fri, 28 Mar 2025 03:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-04(금) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [라흐 헤스트] 3차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -423,13 +430,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15820&amp;order=1</guid>
             <pubDate>Wed, 26 Mar 2025 03:23:54 GMT</pubDate>
             <content:encoded><![CDATA[2025-03-27(목) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대구] 여름방학특집 2025 라이브가족뮤지컬 [인어공주] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15819&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15819&amp;order=1</guid>
-            <pubDate>Tue, 25 Mar 2025 08:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[2025-03-31(월) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>

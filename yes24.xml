@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-03-28T02:20:55.782Z</updated>
+    <updated>2025-03-28T03:27:03.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15829</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15829"/>
+        <updated>2025-03-28T03:26:21.412Z</updated>
+        <content type="html"><![CDATA[2025.04.04(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [라흐 헤스트] 3차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15828</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15810"/>
         <updated>2025-03-24T03:28:50.096Z</updated>
         <content type="html"><![CDATA[2025.03.25(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15809</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15809"/>
-        <updated>2025-03-24T03:28:50.107Z</updated>
-        <content type="html"><![CDATA[2025.03.27(목) 20:00]]></content>
     </entry>
 </feed>
