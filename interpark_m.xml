@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 05:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 06:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,15 +24,6 @@
             <content:encoded><![CDATA[2025.03.28
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004418_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[허용별 콘서트 : 보컬 전쟁 시즌2 “The War of Vocalists II” - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55000</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55000</guid>
-            <pubDate>Fri, 28 Mar 2025 05:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20250324125517.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤직드라마 〈불편한 편의점〉 - 올웨이즈씨어터]]></title>
@@ -78,6 +69,15 @@
             <content:encoded><![CDATA[2025.03.28
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004574_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[허용별 콘서트 : 보컬 전쟁 시즌2 “The War of Vocalists II” - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55000</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55000</guid>
+            <pubDate>Fri, 28 Mar 2025 05:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20250324125517.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림 팬 콘서트 '러브공작단 시크릿 쥬-주 총회']]></title>
