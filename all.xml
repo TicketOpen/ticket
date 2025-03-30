@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Mar 2025 21:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Mar 2025 22:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,15 +134,6 @@
             <content:encoded><![CDATA[25.04.01(화)&nbsp;13:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 베스트셀러 뮤지컬 〈사과가쿵〉 - 대구 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55016</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55016</guid>
-            <pubDate>Fri, 28 Mar 2025 15:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.31
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004595_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[여름방학특집 2025 라이브가족뮤지컬〈인어공주〉-대구 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55017</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55017</guid>
@@ -150,6 +141,15 @@
             <content:encoded><![CDATA[2025.03.31
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004592_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 베스트셀러 뮤지컬 〈사과가쿵〉 - 대구 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55016</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55016</guid>
+            <pubDate>Fri, 28 Mar 2025 15:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.31
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004595_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[서울스프링페스타 WONDER SHOW (인터파크 티켓 모바일)]]></title>
