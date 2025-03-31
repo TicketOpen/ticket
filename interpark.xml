@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2025-03-31T03:32:18.568Z</updated>
+    <updated>2025-03-31T05:11:03.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 영탁 팬콘 ‘YOUNGONE PARK’]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55068&amp;groupno=55068&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55068&amp;groupno=55068&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-03-31T05:09:51.649Z</updated>
+        <content type="html"><![CDATA[25.04.11(금)&nbsp;20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 권진아 단독 콘서트 [The Dreamest]]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55067&amp;groupno=55067&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55067&amp;groupno=55067&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-03-31T03:31:05.218Z</updated>
         <content type="html"><![CDATA[25.04.09(수)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEDNESDAY CAMPANELLA Live in Seoul 2025]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55066&amp;groupno=55066&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55066&amp;groupno=55066&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-03-31T05:09:51.650Z</updated>
+        <content type="html"><![CDATA[25.04.03(목)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오스틴킴 콘서트 “Salon de Musik”]]></title>
@@ -111,24 +125,10 @@
         <content type="html"><![CDATA[25.04.02(수)&nbsp;11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[진격의 거인 오피셜 콘서트 - Beyond the Walls World Tour -]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55050&amp;groupno=55050&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55050&amp;groupno=55050&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-03-28T02:19:37.210Z</updated>
-        <content type="html"><![CDATA[25.04.04(금)&nbsp;18:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025 조관우 MUSIC_서울]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55057&amp;groupno=55057&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55057&amp;groupno=55057&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-03-28T07:09:18.599Z</updated>
         <content type="html"><![CDATA[25.04.02(수)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［2025 발레축제］ Shining Wave]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55049&amp;groupno=55049&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55049&amp;groupno=55049&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-03-28T02:19:37.214Z</updated>
-        <content type="html"><![CDATA[25.03.28(금)&nbsp;14:00]]></content>
     </entry>
 </feed>
