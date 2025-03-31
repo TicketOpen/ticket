@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 10:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 11:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -527,13 +527,6 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.02(수) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  GAC기획공연 11시 음악산책 명작시리즈1 '오만과 편견' 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61739</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61739</guid>
-            <pubDate>Mon, 31 Mar 2025 06:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.02(수) 02:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[단독판매]  ​[광주시립교향악단 특별음악회] GSO 키즈콘서트 '모래 위의 클래식'​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61738</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61738</guid>
@@ -616,6 +609,13 @@
             <guid>http://www.ticketlink.co.kr/help/notice/61727</guid>
             <pubDate>Fri, 28 Mar 2025 05:10:57 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.02(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <명성황후> 30주년 기념 공연 - 청주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61726</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61726</guid>
+            <pubDate>Mon, 31 Mar 2025 11:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.01(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 20세기소년 음감회 (20th CENTURY BOY’z  LISTENING PARTY)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
