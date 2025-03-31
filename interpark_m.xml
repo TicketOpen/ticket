@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 21:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 22:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,6 +53,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004776_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[그리스 로마 신화 〈신들의 왕 제우스〉 - 용산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55030</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55030</guid>
+            <pubDate>Mon, 31 Mar 2025 15:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_family.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈명성황후〉 30주년 기념 공연 - 청주]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55054</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55054</guid>
@@ -69,15 +78,6 @@
             <content:encoded><![CDATA[2025.04.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_musical.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[그리스 로마 신화 〈신들의 왕 제우스〉 - 용산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55030</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55030</guid>
-            <pubDate>Mon, 31 Mar 2025 15:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_family.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈하차거부〉]]></title>
