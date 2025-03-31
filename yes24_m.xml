@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-03-31T08:14:54.766Z</updated>
+    <updated>2025-03-31T09:11:41.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[DAY6 3RD WORLD TOUR〈FOREVER YOUNG〉FINALE in SEOUL 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15839&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15839&amp;order=1"/>
+        <updated>2025-03-31T09:11:06.497Z</updated>
+        <content type="html"><![CDATA[2025-04-14(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노엘(NO:EL) 단독 콘서트 〈No.1 : El Arte〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15838&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15838&amp;order=1"/>
+        <updated>2025-03-31T09:11:06.499Z</updated>
+        <content type="html"><![CDATA[2025-04-17(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족오페라 [신콩쥐] - 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15837&amp;order=1</id>
@@ -60,18 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15829&amp;order=1"/>
         <updated>2025-03-28T03:26:31.542Z</updated>
         <content type="html"><![CDATA[2025-04-04(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [라흐 헤스트] 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15828&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15828&amp;order=1"/>
-        <updated>2025-03-27T05:10:05.574Z</updated>
-        <content type="html"><![CDATA[2025-04-03(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 LOVESOME - 반 고흐, 영혼의 편지 최종 라인업 발표]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15827&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15827&amp;order=1"/>
-        <updated>2025-03-27T05:10:05.576Z</updated>
     </entry>
 </feed>
