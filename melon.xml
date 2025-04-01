@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-04-01T02:32:13.030Z</updated>
+    <updated>2025-04-01T03:38:12.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루이스 오프만 내한 공연 (lewis ofman live in seoul) 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10161</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10161"/>
+        <updated>2025-04-01T03:36:55.257Z</updated>
+        <content type="html"><![CDATA[2025.04.08(화) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최정윤 단독콘서트 ‘Every Moment’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10160</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10160"/>
+        <updated>2025-04-01T03:36:55.257Z</updated>
+        <content type="html"><![CDATA[2025.04.09(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와글와글: 먼데이 오프 위드 블루지 X 숨비 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10159</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10159"/>
+        <updated>2025-04-01T03:36:55.258Z</updated>
+        <content type="html"><![CDATA[2025.04.03(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈팬텀〉 10주년 기념 공연 1차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10158</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10150"/>
         <updated>2025-03-31T21:07:57.815Z</updated>
         <content type="html"><![CDATA[2025.04.07(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스킵잭 전국투어 ‘DRUG STORE’ in 부산 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10149</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10149"/>
-        <updated>2025-03-31T21:07:57.816Z</updated>
-        <content type="html"><![CDATA[2025.04.04(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Closer To Us season1 Wynn(윈) 단독 콘서트 ‘TAKE A WALK’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10145</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10145"/>
-        <updated>2025-03-31T21:07:57.822Z</updated>
-        <content type="html"><![CDATA[2025.04.01(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NAZCA RECORDS CONCERT [나즈카 레코드 콘서트] 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10144</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10144"/>
-        <updated>2025-03-31T21:07:57.822Z</updated>
-        <content type="html"><![CDATA[2025.04.03(목) 20:00]]></content>
     </entry>
 </feed>
