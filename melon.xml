@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-04-01T06:14:15.605Z</updated>
+    <updated>2025-04-01T07:11:33.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페인터즈 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10162</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10162"/>
+        <updated>2025-04-01T07:10:04.675Z</updated>
+        <content type="html"><![CDATA[2025.04.01(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루이스 오프만 내한 공연 (lewis ofman live in seoul) 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10161</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10161"/>
+        <updated>2025-04-01T07:10:04.676Z</updated>
+        <content type="html"><![CDATA[2025.04.08(화) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최정윤 단독콘서트 ‘Every Moment’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10160</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10160"/>
+        <updated>2025-04-01T07:10:04.676Z</updated>
+        <content type="html"><![CDATA[2025.04.09(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와글와글: 먼데이 오프 위드 블루지 X 숨비 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10159</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10159"/>
+        <updated>2025-04-01T07:10:04.686Z</updated>
+        <content type="html"><![CDATA[2025.04.03(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈팬텀〉 10주년 기념 공연 1차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10158</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10158"/>
+        <updated>2025-04-01T07:10:04.687Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌8 [안녕하신가영 단독 콘서트 “월요일에도 봄이 떠오르면 좋겠어요”] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10157</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10157"/>
+        <updated>2025-04-01T07:10:04.688Z</updated>
+        <content type="html"><![CDATA[2025.04.02(수) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TONE STUDIO LIVE 〈박기훈 섹스텟(PARK KIHUN sextet〉 : JOY SPRING 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10155</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10155"/>
+        <updated>2025-04-01T07:10:04.689Z</updated>
+        <content type="html"><![CDATA[2025.04.04(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Together - 희망씨 나눔콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10154</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10154"/>
+        <updated>2025-04-01T07:10:04.691Z</updated>
+        <content type="html"><![CDATA[2025.04.04(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정세운 공식 팬클럽 ‘행운(LUCKY)’ 7기 모집 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10153</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10153"/>
+        <updated>2025-04-01T07:10:04.692Z</updated>
+        <content type="html"><![CDATA[2025.04.01(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스킵잭 전국투어 ‘DRUG STORE’ in 서울 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10151</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10151"/>
+        <updated>2025-04-01T07:10:04.694Z</updated>
+        <content type="html"><![CDATA[2025.04.11(금) 20:00]]></content>
+    </entry>
 </feed>
