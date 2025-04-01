@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Apr 2025 00:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 02:32:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈팬텀〉 10주년 기념 공연 1차 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10158</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10158</guid>
+            <pubDate>Tue, 01 Apr 2025 02:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌8 [안녕하신가영 단독 콘서트 “월요일에도 봄이 떠오르면 좋겠어요”] 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10157</link>
@@ -71,11 +78,32 @@
             <content:encoded><![CDATA[2025.04.03(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌8 Try Again [안다영 단독 콘서트] 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10143</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10143</guid>
-            <pubDate>Mon, 31 Mar 2025 21:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.02(수) 20:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈알라딘〉 한국 초연 (ALADDIN The Musical) (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55076&amp;groupno=55076&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55076&amp;groupno=55076&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 01 Apr 2025 02:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[25.04.10(목)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55075&amp;groupno=55075&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55075&amp;groupno=55075&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 01 Apr 2025 02:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[25.04.04(금)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈팬텀〉 10주년 기념 공연 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55074&amp;groupno=55074&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55074&amp;groupno=55074&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 01 Apr 2025 02:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[25.04.08(화)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 광주 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55073&amp;groupno=55073&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55073&amp;groupno=55073&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 01 Apr 2025 02:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[25.04.07(월)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[78LIVE - 고고학 (인터파크 티켓)]]></title>
@@ -160,34 +188,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55056&amp;groupno=55056&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 28 Mar 2025 06:13:01 GMT</pubDate>
             <content:encoded><![CDATA[25.04.02(수)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이은결 〈TRACK〉 - 용인 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55055&amp;groupno=55055&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55055&amp;groupno=55055&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 28 Mar 2025 05:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[25.04.01(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈명성황후〉 30주년 기념 공연 - 청주 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55054&amp;groupno=55054&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55054&amp;groupno=55054&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 28 Mar 2025 05:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[25.04.01(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[［2025 발레축제］ 라이프 오브 발레리노 - Dreamer (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55053&amp;groupno=55053&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55053&amp;groupno=55053&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 28 Mar 2025 05:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[25.03.28(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[현대차증권과 함께하는 클라우스 메켈레 & 파리 오케스트라 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55052&amp;groupno=55052&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55052&amp;groupno=55052&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 28 Mar 2025 05:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[25.04.02(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[조항조 전국투어 콘서트 : 생각 - 구미 (인터파크 티켓)]]></title>
@@ -292,6 +292,13 @@
             <content:encoded><![CDATA[2025.04.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25004642_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <알라딘> 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15841</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15841</guid>
+            <pubDate>Tue, 01 Apr 2025 02:31:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.10(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대구] 2025 라이브가족뮤지컬〈백설공주〉 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -426,11 +433,11 @@
             <content:encoded><![CDATA[2025.04.01(화) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15820</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15820</guid>
-            <pubDate>Wed, 26 Mar 2025 03:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.27(목) 20:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <알라딘> 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15841&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15841&amp;order=1</guid>
+            <pubDate>Tue, 01 Apr 2025 02:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-10(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대구] 2025 라이브가족뮤지컬〈백설공주〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -494,13 +501,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15832&amp;order=1</guid>
             <pubDate>Fri, 28 Mar 2025 09:10:31 GMT</pubDate>
             <content:encoded><![CDATA[2025-04-04(금) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[현대차증권과 함께하는 클라우스 메켈레 & 파리 오케스트라] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15830&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15830&amp;order=1</guid>
-            <pubDate>Fri, 28 Mar 2025 05:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025-04-02(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -581,13 +581,6 @@
             <pubDate>Thu, 21 Nov 2024 04:11:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.17(월) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 키즈오페라 <피노키오> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61742</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61742</guid>
-            <pubDate>Tue, 01 Apr 2025 00:46:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.01(화) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 20세기소년 음감회 (20th CENTURY BOY’z  LISTENING PARTY)​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -688,11 +681,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.02(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 키즈오페라 <피노키오> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61742</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61742</guid>
-            <pubDate>Tue, 01 Apr 2025 00:46:27 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.01(화) 01:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <명성황후> 30주년 기념 공연 - 청주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61726</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61726</guid>
+            <pubDate>Tue, 01 Apr 2025 02:31:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.01(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 20세기소년 음감회 (20th CENTURY BOY’z  LISTENING PARTY)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -791,6 +784,13 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61727</guid>
             <pubDate>Fri, 28 Mar 2025 05:11:06 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.02(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <명성황후> 30주년 기념 공연 - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61726</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61726</guid>
+            <pubDate>Tue, 01 Apr 2025 02:32:06 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.01(화) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
