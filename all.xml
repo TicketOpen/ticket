@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Apr 2025 09:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 10:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전>-원주​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61750</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61750</guid>
+            <pubDate>Tue, 01 Apr 2025 10:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.04(금) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전>-순천​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61749</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61749</guid>
+            <pubDate>Tue, 01 Apr 2025 10:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.04(금) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연극 <딜레마> 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61748</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61748</guid>
@@ -674,18 +688,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.03(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  ​[안산] 뮤지컬 <플랫폼> - 각인, 두번째 이야기​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61734</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61734</guid>
-            <pubDate>Sat, 29 Mar 2025 08:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.03.31(월) 22:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전>-원주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61750</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61750</guid>
+            <pubDate>Tue, 01 Apr 2025 10:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.04(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  ​민화로 만나는 동물의 사육제 - 울산​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61733</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61733</guid>
-            <pubDate>Sat, 29 Mar 2025 02:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.09(수) 12:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전>-순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61749</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61749</guid>
+            <pubDate>Tue, 01 Apr 2025 10:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.04(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <딜레마> 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -777,20 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61735</guid>
             <pubDate>Mon, 31 Mar 2025 02:26:03 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.03(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  ​[안산] 뮤지컬 <플랫폼> - 각인, 두번째 이야기​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61734</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61734</guid>
-            <pubDate>Sat, 29 Mar 2025 08:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.31(월) 22:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  ​민화로 만나는 동물의 사육제 - 울산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61733</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61733</guid>
-            <pubDate>Sat, 29 Mar 2025 02:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.09(수) 12:00]]></content:encoded>
         </item>
     </channel>
 </rss>
