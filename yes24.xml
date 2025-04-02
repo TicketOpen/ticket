@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-04-02T05:11:11.269Z</updated>
+    <updated>2025-04-02T06:14:03.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[베어 더 뮤지컬 (bare the musical) 프리뷰 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15849</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15849"/>
+        <updated>2025-04-02T06:13:11.444Z</updated>
+        <content type="html"><![CDATA[2025.04.09(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2025 [더：매직서커스] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15848</id>
@@ -137,11 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15828"/>
         <updated>2025-03-27T05:09:54.017Z</updated>
         <content type="html"><![CDATA[2025.04.03(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 LOVESOME - 반 고흐, 영혼의 편지 최종 라인업 발표]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15827</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15827"/>
-        <updated>2025-03-27T05:09:54.026Z</updated>
     </entry>
 </feed>
