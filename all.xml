@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 07:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 08:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10168</guid>
             <pubDate>Thu, 03 Apr 2025 07:09:34 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.08(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[플레이DB 로그인 서비스 변경 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55077&amp;groupno=55077&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55077&amp;groupno=55077&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 03 Apr 2025 08:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈알라딘〉 한국 초연 (ALADDIN The Musical) (인터파크 티켓)]]></title>
@@ -188,13 +195,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55059&amp;groupno=55059&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 31 Mar 2025 00:42:13 GMT</pubDate>
             <content:encoded><![CDATA[25.04.03(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈모리스〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55056&amp;groupno=55056&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=55056&amp;groupno=55056&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 28 Mar 2025 06:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[25.04.02(수)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[조항조 전국투어 콘서트 : 생각 - 구미 (인터파크 티켓)]]></title>
@@ -591,6 +591,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 현대무용단-탐 45주년기념 작품시리즈 Ⅱ 솔로공연​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61768</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61768</guid>
+            <pubDate>Thu, 03 Apr 2025 08:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.04(금) 07:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 제16회 대구꽃박람회​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61767</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61767</guid>
@@ -689,11 +696,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.28(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[벙커에 부는 봄바람~ 벙커 봄봄 음악회 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61752</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61752</guid>
-            <pubDate>Tue, 01 Apr 2025 13:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.02(수) 11:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 현대무용단-탐 45주년기념 작품시리즈 Ⅱ 솔로공연​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61768</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61768</guid>
+            <pubDate>Thu, 03 Apr 2025 08:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.04(금) 07:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 제16회 대구꽃박람회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -792,13 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61753</guid>
             <pubDate>Wed, 02 Apr 2025 02:22:02 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.28(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[벙커에 부는 봄바람~ 벙커 봄봄 음악회 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61752</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61752</guid>
-            <pubDate>Tue, 01 Apr 2025 13:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.02(수) 11:00]]></content:encoded>
         </item>
     </channel>
 </rss>
