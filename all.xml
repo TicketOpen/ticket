@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 08:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 09:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,15 +247,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001460_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈마하랑 떠나요 - 수도SONG 세계여행〉 - 고양 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55032</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55032</guid>
-            <pubDate>Wed, 02 Apr 2025 15:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.03
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000704_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[［항공우주박물관］ 대한항공 A300 항공기 체험 - 고양 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1041</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1041</guid>
@@ -281,6 +272,15 @@
             <content:encoded><![CDATA[2025.04.03
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000753_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈마하랑 떠나요 - 수도SONG 세계여행〉 - 고양 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55032</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55032</guid>
+            <pubDate>Wed, 02 Apr 2025 15:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.03
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000704_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈라흐 헤스트〉 (인터파크 티켓 모바일)]]></title>
