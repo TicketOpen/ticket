@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-04-03T00:40:58.631Z</updated>
+    <updated>2025-04-03T02:20:42.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[PINOCCHIOP ASIA TOUR 「COMET」 in Seoul 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15853&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15853&amp;order=1"/>
+        <updated>2025-04-03T02:20:01.844Z</updated>
+        <content type="html"><![CDATA[2025-04-07(월) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“어린이날 기념, 해설이 있는 발레”〈돈키호테, SUITE〉티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15852&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15844&amp;order=1"/>
         <updated>2025-04-01T05:10:28.965Z</updated>
         <content type="html"><![CDATA[2025-04-08(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Magic, 조수미 & 위너스 - 전주 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15842&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15842&amp;order=1"/>
-        <updated>2025-04-01T05:10:28.966Z</updated>
-        <content type="html"><![CDATA[2025-04-04(금) 14:00]]></content>
     </entry>
 </feed>
