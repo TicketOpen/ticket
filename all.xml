@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 19:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 20:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,15 +152,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20250331112555.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국민연극〈라이어1탄〉 -상명아트홀 1관 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55023</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55023</guid>
-            <pubDate>Thu, 03 Apr 2025 16:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.08
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017527_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈팬텀〉 10주년 기념 공연 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55074</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55074</guid>
@@ -168,6 +159,15 @@
             <content:encoded><![CDATA[2025.04.08
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20250401093012.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국민연극〈라이어1탄〉 -상명아트홀 1관 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55023</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55023</guid>
+            <pubDate>Thu, 03 Apr 2025 16:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.08
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017527_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 권진아 단독 콘서트 [The Dreamest] (인터파크 티켓 모바일)]]></title>
