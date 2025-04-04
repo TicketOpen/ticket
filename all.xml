@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 06:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 07:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -220,15 +220,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25002679_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[78LIVE - 고고학 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55072</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55072</guid>
-            <pubDate>Thu, 03 Apr 2025 16:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.04
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20250331051108.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[진격의 거인 오피셜 콘서트 - Beyond the Walls World Tour - (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55050</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55050</guid>
@@ -236,6 +227,15 @@
             <content:encoded><![CDATA[2025.04.04
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003632_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[78LIVE - 고고학 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55072</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55072</guid>
+            <pubDate>Thu, 03 Apr 2025 16:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.04
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20250331051108.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈레인보우 버블젬-흩어진 버블젬을 찾아라!〉 - 광주 (인터파크 티켓 모바일)]]></title>
@@ -591,6 +591,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[​뮤지컬 <사랑의 하츄핑> – 인천​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61781</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61781</guid>
+            <pubDate>Fri, 04 Apr 2025 07:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.08(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​태진아 VS 강진 <효>콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61780</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61780</guid>
+            <pubDate>Fri, 04 Apr 2025 07:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.07(월) 07:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]  ​Pile Birthday Events 2025 in Seoul​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61779</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61779</guid>
@@ -682,18 +696,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.08(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 <고고다이노 - 해양구조대> - 부천​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61766</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61766</guid>
-            <pubDate>Thu, 03 Apr 2025 06:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.08(화) 00:00]]></content:encoded>
+            <title><![CDATA[​뮤지컬 <사랑의 하츄핑> – 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61781</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61781</guid>
+            <pubDate>Fri, 04 Apr 2025 07:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.08(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 나 혼자만 레벨업:어라이즈 글로벌 첫번째 공식 대회​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61765</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61765</guid>
-            <pubDate>Thu, 03 Apr 2025 06:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.04(금) 05:00]]></content:encoded>
+            <title><![CDATA[​태진아 VS 강진 <효>콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61780</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61780</guid>
+            <pubDate>Fri, 04 Apr 2025 07:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.07(월) 07:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  ​Pile Birthday Events 2025 in Seoul​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,20 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61767</guid>
             <pubDate>Thu, 03 Apr 2025 06:13:59 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.08(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <고고다이노 - 해양구조대> - 부천​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61766</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61766</guid>
-            <pubDate>Thu, 03 Apr 2025 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.08(화) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 나 혼자만 레벨업:어라이즈 글로벌 첫번째 공식 대회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61765</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61765</guid>
-            <pubDate>Thu, 03 Apr 2025 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.04(금) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
