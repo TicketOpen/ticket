@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 07:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 08:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10158</guid>
             <pubDate>Fri, 04 Apr 2025 06:12:31 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LUCY 일곱 번째 단독 콘서트 〈와장창〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10184</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10184</guid>
+            <pubDate>Fri, 04 Apr 2025 08:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[DMZ 피스트레인 뮤직 페스티벌 2025 2차 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -76,13 +83,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10174</guid>
             <pubDate>Fri, 04 Apr 2025 06:12:31 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.03(목) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TONE STUDIO LIVE 〈위수(WISUE)〉 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10173</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10173</guid>
-            <pubDate>Fri, 04 Apr 2025 06:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.10(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[플레이DB 로그인 서비스 변경 안내 (인터파크 티켓)]]></title>
@@ -301,6 +301,20 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012498_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[송승환의 가족뮤지컬 〈정글북〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15865</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15865</guid>
+            <pubDate>Fri, 04 Apr 2025 08:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.10(목) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15864</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15864</guid>
+            <pubDate>Fri, 04 Apr 2025 08:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.10(목) 14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[비지정석] 뮤지컬 헝키쇼 (HUNKY SHOW) 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15863</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15863</guid>
@@ -427,18 +441,18 @@
             <content:encoded><![CDATA[2025.04.08(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15845</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15845</guid>
-            <pubDate>Tue, 01 Apr 2025 05:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.04(금) 14:00]]></content:encoded>
+            <title><![CDATA[송승환의 가족뮤지컬 〈정글북〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15865&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15865&amp;order=1</guid>
+            <pubDate>Fri, 04 Apr 2025 08:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-10(목) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [랭보] 앵콜 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15844</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15844</guid>
-            <pubDate>Tue, 01 Apr 2025 05:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.08(화) 14:00]]></content:encoded>
+            <title><![CDATA[[창원] SUPER! 수요콘서트 6월 [유다빈밴드x한로로] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15864&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15864&amp;order=1</guid>
+            <pubDate>Fri, 04 Apr 2025 08:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-10(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[비지정석] 뮤지컬 헝키쇼 (HUNKY SHOW) 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -495,20 +509,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15856&amp;order=1</guid>
             <pubDate>Fri, 04 Apr 2025 02:19:49 GMT</pubDate>
             <content:encoded><![CDATA[2025-04-09(수) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ITZY 공식팬클럽 MIDZY 4기 추가 모집 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15855&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15855&amp;order=1</guid>
-            <pubDate>Thu, 03 Apr 2025 06:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[2025-04-04(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보이스 오브 햄릿 (The Voice of Hamlet) 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15854&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15854&amp;order=1</guid>
-            <pubDate>Thu, 03 Apr 2025 06:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[2025-04-09(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -589,6 +589,20 @@
             <pubDate>Thu, 21 Nov 2024 04:11:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.17(월) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  ​2025 특별음악회 <희망의 선율, 사랑나눔 음악회> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61783</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61783</guid>
+            <pubDate>Fri, 04 Apr 2025 08:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.07(월) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  HOME SWEET HOME - 드라마 태권도의저주를풀어줘 팬미팅​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61782</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61782</guid>
+            <pubDate>Fri, 04 Apr 2025 08:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.08(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​뮤지컬 <사랑의 하츄핑> – 인천​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -682,18 +696,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.16(수) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 현대무용단-탐 45주년기념 작품시리즈 Ⅱ 솔로공연​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61768</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61768</guid>
-            <pubDate>Thu, 03 Apr 2025 08:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.04(금) 07:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  ​2025 특별음악회 <희망의 선율, 사랑나눔 음악회> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61783</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61783</guid>
+            <pubDate>Fri, 04 Apr 2025 08:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.07(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 제16회 대구꽃박람회​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61767</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61767</guid>
-            <pubDate>Thu, 03 Apr 2025 06:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.08(화) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  HOME SWEET HOME - 드라마 태권도의저주를풀어줘 팬미팅​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61782</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61782</guid>
+            <pubDate>Fri, 04 Apr 2025 08:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.08(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​뮤지컬 <사랑의 하츄핑> – 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,20 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61769</guid>
             <pubDate>Thu, 03 Apr 2025 11:03:03 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.16(수) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 현대무용단-탐 45주년기념 작품시리즈 Ⅱ 솔로공연​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61768</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61768</guid>
-            <pubDate>Thu, 03 Apr 2025 08:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.04(금) 07:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 제16회 대구꽃박람회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61767</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61767</guid>
-            <pubDate>Thu, 03 Apr 2025 06:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.08(화) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
