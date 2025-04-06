@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Apr 2025 17:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 18:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -693,6 +693,111 @@
             <guid>http://www.ticketlink.co.kr/help/notice/61771</guid>
             <pubDate>Fri, 04 Apr 2025 02:20:12 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.09(수) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 이세계 페스티벌 2025​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61785</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61785</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.10(목) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어린이 명작 극장 <라푼젤> - 평택​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61784</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61784</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.07(월) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  ​2025 특별음악회 <희망의 선율, 사랑나눔 음악회> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61783</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61783</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.07(월) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  HOME SWEET HOME - 드라마 태권도의저주를풀어줘 팬미팅​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61782</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61782</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.08(화) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​뮤지컬 <사랑의 하츄핑> – 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61781</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61781</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.08(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​태진아 VS 강진 <효>콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61780</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61780</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.07(월) 07:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  ​Pile Birthday Events 2025 in Seoul​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61779</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61779</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.10(목) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] eLigue 1 Tour Korea FC PRO MASTERS 한국 대표 선발전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61778</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61778</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.07(월) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61777</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61777</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09(수) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61776</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61776</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09(수) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <할머니의 여름휴가>_극장 용 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61775</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61775</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.11(금) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 통영​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61774</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61774</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.08(화) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사  - 통영​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61773</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61773</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.08(화) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61772</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61772</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09(수) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[고양] 2025 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61771</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61771</guid>
+            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09(수) 00:00]]></content:encoded>
         </item>
     </channel>
 </rss>
