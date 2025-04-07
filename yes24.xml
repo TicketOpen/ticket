@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-04-07T02:24:48.027Z</updated>
+    <updated>2025-04-07T03:30:31.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 가족버블쇼 [매직키즈버블쇼] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15867</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15867"/>
+        <updated>2025-04-07T03:29:46.143Z</updated>
+        <content type="html"><![CDATA[2025.04.10(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송승환의 가족뮤지컬 〈정글북〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15865</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15847"/>
         <updated>2025-04-01T09:10:25.963Z</updated>
         <content type="html"><![CDATA[2025.04.04(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [백작] 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15846</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15846"/>
-        <updated>2025-04-01T06:13:24.772Z</updated>
-        <content type="html"><![CDATA[2025.04.08(화) 14:00]]></content>
     </entry>
 </feed>
