@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 00:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 02:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -513,6 +513,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[​2025 김창완밴드 전국투어 콘서트 <회상> - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61788</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61788</guid>
+            <pubDate>Mon, 07 Apr 2025 02:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.30(수) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 이세계 페스티벌 2025​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61785</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61785</guid>
@@ -566,7 +573,7 @@
             <link>http://www.ticketlink.co.kr/help/notice/61778</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61778</guid>
             <pubDate>Fri, 04 Apr 2025 05:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.07(월) 05:00]]></content:encoded>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.07(월) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 추가 티켓오픈 안내 (티켓링크)]]></title>
@@ -611,11 +618,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.09(수) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[고양] 2025 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61771</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61771</guid>
-            <pubDate>Fri, 04 Apr 2025 02:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.09(수) 00:00]]></content:encoded>
+            <title><![CDATA[​2025 김창완밴드 전국투어 콘서트 <회상> - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61788</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61788</guid>
+            <pubDate>Mon, 07 Apr 2025 02:24:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.30(수) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 이세계 페스티벌 2025​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -671,7 +678,7 @@
             <link>http://m.ticketlink.co.kr/help/notice/61778</link>
             <guid>http://m.ticketlink.co.kr/help/notice/61778</guid>
             <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.07(월) 05:00]]></content:encoded>
+            <content:encoded><![CDATA[2025.04.07(월) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -714,13 +721,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61772</guid>
             <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.09(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[고양] 2025 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61771</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61771</guid>
-            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.09(수) 00:00]]></content:encoded>
         </item>
     </channel>
 </rss>
