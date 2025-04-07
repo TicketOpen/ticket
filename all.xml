@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 05:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 06:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -300,6 +300,27 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003316_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[[수원] 김창완밴드 콘서트 비지정석 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15870</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15870</guid>
+            <pubDate>Mon, 07 Apr 2025 06:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.11(금) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안성] 2025 심수봉 전국투어콘서트 : 꽃길 비지정석 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15869</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15869</guid>
+            <pubDate>Mon, 07 Apr 2025 06:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.11(금) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15868</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15868</guid>
+            <pubDate>Mon, 07 Apr 2025 06:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09(수) 12:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[대구] 2025 가족버블쇼 [매직키즈버블쇼] 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15867</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15867</guid>
@@ -419,25 +440,25 @@
             <content:encoded><![CDATA[2025.04.07(월) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15850</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15850</guid>
-            <pubDate>Wed, 02 Apr 2025 07:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.10(목) 14:00]]></content:encoded>
+            <title><![CDATA[[수원] 김창완밴드 콘서트 비지정석 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15870&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15870&amp;order=1</guid>
+            <pubDate>Mon, 07 Apr 2025 06:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-11(금) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베어 더 뮤지컬 (bare the musical) 프리뷰 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15849</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15849</guid>
-            <pubDate>Wed, 02 Apr 2025 06:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.09(수) 11:00]]></content:encoded>
+            <title><![CDATA[[안성] 2025 심수봉 전국투어콘서트 : 꽃길 비지정석 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15869&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15869&amp;order=1</guid>
+            <pubDate>Mon, 07 Apr 2025 06:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-11(금) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대구] 2025 [더：매직서커스] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15848</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15848</guid>
-            <pubDate>Tue, 01 Apr 2025 08:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.03(목) 10:00]]></content:encoded>
+            <title><![CDATA[2025 ADVANTAGE MINSUNG CONCERT 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15868&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15868&amp;order=1</guid>
+            <pubDate>Mon, 07 Apr 2025 06:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-09(수) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대구] 2025 가족버블쇼 [매직키즈버블쇼] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -487,27 +508,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15861&amp;order=1</guid>
             <pubDate>Fri, 04 Apr 2025 05:09:55 GMT</pubDate>
             <content:encoded><![CDATA[2025-04-11(금) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025 YEON HEE FANMEETING [連] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15860&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15860&amp;order=1</guid>
-            <pubDate>Fri, 04 Apr 2025 06:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[2025-04-11(금) 19:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[용인] 가족뮤지컬 [고고다이노 - 해양구조대] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15859&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15859&amp;order=1</guid>
-            <pubDate>Fri, 04 Apr 2025 02:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025-04-08(화) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈조선 이야기꾼 전기수〉추가 티켓 오픈공지 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15858&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15858&amp;order=1</guid>
-            <pubDate>Fri, 04 Apr 2025 05:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[2025-04-09(수) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -590,11 +590,25 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2025년 가족 뮤지컬 <겨울이야기> - 진주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61793</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61793</guid>
+            <pubDate>Mon, 07 Apr 2025 06:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.08(화) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]  ​GAC 기획공연 포커스 닐로 단독 콘서트 '들려줄게'​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61791</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61791</guid>
             <pubDate>Mon, 07 Apr 2025 05:11:06 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.09(수) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  ​이별의 아리아 - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61790</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61790</guid>
+            <pubDate>Mon, 07 Apr 2025 06:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.08(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  ​메조소프라노 김보라 리사이틀 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -681,18 +695,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.07(월) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 추가 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61777</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61777</guid>
-            <pubDate>Fri, 04 Apr 2025 02:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.09(수) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61776</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61776</guid>
-            <pubDate>Fri, 04 Apr 2025 02:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.09(수) 01:00]]></content:encoded>
+            <title><![CDATA[2025년 가족 뮤지컬 <겨울이야기> - 진주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61793</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61793</guid>
+            <pubDate>Mon, 07 Apr 2025 06:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.08(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  ​GAC 기획공연 포커스 닐로 단독 콘서트 '들려줄게'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -700,6 +707,13 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61791</guid>
             <pubDate>Mon, 07 Apr 2025 05:11:17 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.09(수) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  ​이별의 아리아 - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61790</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61790</guid>
+            <pubDate>Mon, 07 Apr 2025 06:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.08(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  ​메조소프라노 김보라 리사이틀 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,20 +798,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61778</guid>
             <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.07(월) 08:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61777</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61777</guid>
-            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.09(수) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61776</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61776</guid>
-            <pubDate>Sun, 06 Apr 2025 18:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.09(수) 01:00]]></content:encoded>
         </item>
     </channel>
 </rss>
