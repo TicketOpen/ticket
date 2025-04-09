@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 07:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 08:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -477,6 +477,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가족뮤지컬 <신데렐라> - 광주​​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61817</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61817</guid>
+            <pubDate>Wed, 09 Apr 2025 08:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.10(목) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬 <신데렐라> - 양산​​​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61816</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61816</guid>
@@ -575,11 +582,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.11(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 <한 여름밤의 템페스트>​ 추가 좌석 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61801</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61801</guid>
-            <pubDate>Tue, 08 Apr 2025 03:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.10(목) 01:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 <신데렐라> - 광주​​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61817</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61817</guid>
+            <pubDate>Wed, 09 Apr 2025 08:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.10(목) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 <신데렐라> - 양산​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -678,13 +685,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61802</guid>
             <pubDate>Tue, 08 Apr 2025 05:10:29 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.11(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 <한 여름밤의 템페스트>​ 추가 좌석 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61801</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61801</guid>
-            <pubDate>Tue, 08 Apr 2025 03:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.10(목) 01:00]]></content:encoded>
         </item>
     </channel>
 </rss>
