@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-09T00:41:03.421Z</updated>
+    <updated>2025-04-09T02:22:04.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <가스등 (gaslight) > - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61812</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61812"/>
+        <updated>2025-04-09T02:21:48.129Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 유키 구라모토 콘서트 Peacefully - 인천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61811</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/61798</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61798"/>
         <updated>2025-04-08T02:21:00.785Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  2025 김동하 Stand-up Tour < Life Goes On > - 전주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61797</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61797"/>
-        <updated>2025-04-08T02:21:00.790Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 01:00]]></content>
     </entry>
 </feed>
