@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 02:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 04:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 한대음 페스티벌 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10200</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10200</guid>
+            <pubDate>Wed, 09 Apr 2025 04:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.11(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [찬민 단독 콘서트 ‘여명’] 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10199</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10199</guid>
+            <pubDate>Wed, 09 Apr 2025 04:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.16(수) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Shinsei Kamattechan Live in Seoul 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10197</link>
@@ -62,20 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10190</guid>
             <pubDate>Tue, 08 Apr 2025 22:08:38 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.10(목) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[cacophony After April’s Party: 가장 사적 in Seoul 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10189</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10189</guid>
-            <pubDate>Tue, 08 Apr 2025 22:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.11(금) 19:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지창민 데뷔노트 In 부산 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10187</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10187</guid>
-            <pubDate>Tue, 08 Apr 2025 22:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.08(화) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[플레이DB 로그인 서비스 변경 안내 (인터파크 티켓)]]></title>
@@ -257,6 +257,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25003316_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[[부천] 2025 빅3 ＂행복한만남＂ [강진,김용임,진성] 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15876</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15876</guid>
+            <pubDate>Wed, 09 Apr 2025 04:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.17(목) 12:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15874</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15874</guid>
@@ -390,11 +397,11 @@
             <content:encoded><![CDATA[2025.04.09(수) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15855</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15855</guid>
-            <pubDate>Thu, 03 Apr 2025 06:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.04(금) 14:00]]></content:encoded>
+            <title><![CDATA[[부천] 2025 빅3 ＂행복한만남＂ [강진,김용임,진성] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15876&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15876&amp;order=1</guid>
+            <pubDate>Wed, 09 Apr 2025 04:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-17(목) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북에서 온 스타들 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -458,13 +465,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15866&amp;order=1</guid>
             <pubDate>Mon, 07 Apr 2025 04:11:45 GMT</pubDate>
             <content:encoded><![CDATA[2025-04-23(수) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송승환의 가족뮤지컬 〈정글북〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15865&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15865&amp;order=1</guid>
-            <pubDate>Fri, 04 Apr 2025 08:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[2025-04-10(목) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
