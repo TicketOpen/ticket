@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 10:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 11:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사카구치 켄타로 아시아 투어 팬미팅 2025 in 서울 (KENTARO SAKAGUCHI ASIA TOUR FAN MEETING 2025 in SEOUL) 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61825</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61825</guid>
+            <pubDate>Thu, 10 Apr 2025 11:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.11(금) 09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쇼뮤지컬 Again <드림하이> (Showmusical Again < DreamHigh >) 3차​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61824</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61824</guid>
@@ -426,11 +433,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.11(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 - 서울​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61809</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61809</guid>
-            <pubDate>Tue, 08 Apr 2025 10:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.11(금) 02:00]]></content:encoded>
+            <title><![CDATA[사카구치 켄타로 아시아 투어 팬미팅 2025 in 서울 (KENTARO SAKAGUCHI ASIA TOUR FAN MEETING 2025 in SEOUL) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61825</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61825</guid>
+            <pubDate>Thu, 10 Apr 2025 11:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.11(금) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼뮤지컬 Again <드림하이> (Showmusical Again < DreamHigh >) 3차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -529,13 +536,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61810</guid>
             <pubDate>Tue, 08 Apr 2025 10:10:52 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.11(금) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 - 서울​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61809</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61809</guid>
-            <pubDate>Tue, 08 Apr 2025 10:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.11(금) 02:00]]></content:encoded>
         </item>
     </channel>
 </rss>
