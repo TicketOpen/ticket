@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 02:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 03:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KARDI 단독콘서트 ‘각별’ : 롤링 30주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10206</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10206</guid>
+            <pubDate>Thu, 10 Apr 2025 03:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.16(수) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2025 빈센트블루 단독 콘서트 ‘Blue Wood’ 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10204</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10194</guid>
             <pubDate>Wed, 09 Apr 2025 23:08:26 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.15(화) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세종문화회관 무경계 컨템퍼러리 Sync Next 25 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10193</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10193</guid>
-            <pubDate>Wed, 09 Apr 2025 23:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[플레이DB 로그인 서비스 변경 안내 (인터파크 티켓)]]></title>
