@@ -4,27 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 14:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 15:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[송승환의 가족뮤지컬 〈정글북〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54896</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54896</guid>
-            <pubDate>Thu, 03 Apr 2025 16:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.10
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025031017340071.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알라딘〉 한국 초연 (ALADDIN The Musical)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55076</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55076</guid>
-            <pubDate>Thu, 03 Apr 2025 16:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012498_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[2025 영탁 팬콘 ‘YOUNGONE PARK’]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=55068</link>

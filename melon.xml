@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-04-10T14:10:19.799Z</updated>
+    <updated>2025-04-10T15:11:01.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10206"/>
         <updated>2025-04-10T09:09:33.088Z</updated>
         <content type="html"><![CDATA[2025.04.16(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사용가능]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10205</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10205"/>
+        <updated>2025-04-10T15:09:45.839Z</updated>
+        <content type="html"><![CDATA[추후공지]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 빈센트블루 단독 콘서트 ‘Blue Wood’ 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10197"/>
         <updated>2025-04-10T09:09:33.102Z</updated>
         <content type="html"><![CDATA[2025.04.22(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제17회 서울재즈페스티벌 2025 3차 라인업 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10196</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10196"/>
-        <updated>2025-04-10T09:09:33.104Z</updated>
-        <content type="html"><![CDATA[2025.02.27(목) 12:00]]></content>
     </entry>
 </feed>
