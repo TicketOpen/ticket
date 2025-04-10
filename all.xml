@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 05:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 06:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 ‘헤다 가블러’ 마지막 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10207</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10207</guid>
+            <pubDate>Thu, 10 Apr 2025 06:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.15(화) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[KARDI 단독콘서트 ‘각별’ : 롤링 30주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10206</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10195</guid>
             <pubDate>Thu, 10 Apr 2025 05:09:30 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.11(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오이스터 단독콘서트 ‘What If We Missed’ : 롤링 30주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10194</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10194</guid>
-            <pubDate>Thu, 10 Apr 2025 05:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.15(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[플레이DB 로그인 서비스 변경 안내 (인터파크 티켓)]]></title>
