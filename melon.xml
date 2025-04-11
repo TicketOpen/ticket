@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-04-11T04:12:24.561Z</updated>
+    <updated>2025-04-11T05:10:33.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페인터즈 5월 회차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10211</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10211"/>
+        <updated>2025-04-11T05:09:22.953Z</updated>
+        <content type="html"><![CDATA[2025.04.14(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 live workspace ‘최창순’ vol.02 jeonju 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10210</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10200"/>
         <updated>2025-04-11T03:26:44.518Z</updated>
         <content type="html"><![CDATA[2025.04.11(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌8 [찬민 단독 콘서트 ‘여명’] 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10199</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10199"/>
-        <updated>2025-04-11T03:26:44.522Z</updated>
-        <content type="html"><![CDATA[2025.04.16(수) 20:00]]></content>
     </entry>
 </feed>
