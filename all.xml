@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 06:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 07:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,6 +301,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <사랑의 하츄핑> – 성남 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61847</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61847</guid>
+            <pubDate>Mon, 14 Apr 2025 07:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.17(목) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[​2025 <어린이 서커스 마술쇼> - 부천​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61846</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61846</guid>
@@ -399,11 +406,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.15(화) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 <넘버블록스> - 용인​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61832</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61832</guid>
-            <pubDate>Fri, 11 Apr 2025 00:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.16(수) 00:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <사랑의 하츄핑> – 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61847</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61847</guid>
+            <pubDate>Mon, 14 Apr 2025 07:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.17(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​2025 <어린이 서커스 마술쇼> - 부천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -502,13 +509,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61833</guid>
             <pubDate>Fri, 11 Apr 2025 00:41:30 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.15(화) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <넘버블록스> - 용인​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61832</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61832</guid>
-            <pubDate>Fri, 11 Apr 2025 00:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.16(수) 00:00]]></content:encoded>
         </item>
     </channel>
 </rss>
