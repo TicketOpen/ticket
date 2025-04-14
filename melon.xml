@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-04-14T07:12:55.092Z</updated>
+    <updated>2025-04-14T08:14:18.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -62,7 +62,7 @@
         <content type="html"><![CDATA[2025.04.15(화) 20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[얼리버드 50%] 에르베 튈레_색색깔깔展 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[[얼리버드 50%] 에르베 튈레展: 색색깔깔 뮤지엄 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=10213</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=10213"/>
         <updated>2025-04-14T06:15:39.035Z</updated>
