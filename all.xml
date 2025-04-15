@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 05:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 06:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,6 +301,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매]  이은결 < BEYOND MAGIC > - 울진 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61854</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61854</guid>
+            <pubDate>Tue, 15 Apr 2025 06:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.05.08(목) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 이세계 페스티벌 2025 - 2차 티켓 오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61853</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61853</guid>
+            <pubDate>Tue, 15 Apr 2025 06:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.16(수) 11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 뮤지컬배우 이해준 콘서트 < From Hae:ven >​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61852</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61852</guid>
@@ -392,18 +406,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.15(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​2025 심수봉 전국투어 콘서트 : 꽃길 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61839</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61839</guid>
-            <pubDate>Fri, 11 Apr 2025 09:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.17(목) 02:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  이은결 < BEYOND MAGIC > - 울진 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61854</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61854</guid>
+            <pubDate>Tue, 15 Apr 2025 06:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.05.08(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​뮤지컬 <사랑의 하츄핑> – 안양​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61838</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61838</guid>
-            <pubDate>Fri, 11 Apr 2025 07:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.15(화) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 이세계 페스티벌 2025 - 2차 티켓 오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61853</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61853</guid>
+            <pubDate>Tue, 15 Apr 2025 06:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.16(수) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 뮤지컬배우 이해준 콘서트 < From Hae:ven >​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -494,20 +508,6 @@
             <link>http://m.ticketlink.co.kr/help/notice/61840</link>
             <guid>http://m.ticketlink.co.kr/help/notice/61840</guid>
             <pubDate>Fri, 11 Apr 2025 09:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.15(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2025 심수봉 전국투어 콘서트 : 꽃길 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61839</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61839</guid>
-            <pubDate>Fri, 11 Apr 2025 09:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.17(목) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​뮤지컬 <사랑의 하츄핑> – 안양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61838</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61838</guid>
-            <pubDate>Fri, 11 Apr 2025 07:10:22 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.15(화) 05:00]]></content:encoded>
         </item>
     </channel>
