@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 06:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 08:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,6 +301,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <배니싱> 마지막​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61857</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61857</guid>
+            <pubDate>Tue, 15 Apr 2025 08:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.21(월) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​2025 가족뮤지컬 <꼬마버스 타요 – 소원을 들어주는 요술 지팡이 대소동> - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61855</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61855</guid>
+            <pubDate>Tue, 15 Apr 2025 08:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.21(월) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]  이은결 < BEYOND MAGIC > - 울진 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61854</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61854</guid>
@@ -392,18 +406,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.04.15(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 트리오 인피니티 내한공연-광주​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61841</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61841</guid>
-            <pubDate>Fri, 11 Apr 2025 10:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.14(월) 01:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <배니싱> 마지막​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61857</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61857</guid>
+            <pubDate>Tue, 15 Apr 2025 08:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.21(월) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 임창정 30주년 <촌스러운 콘서트> - 서울​​​​ 2차 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61840</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61840</guid>
-            <pubDate>Fri, 11 Apr 2025 09:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.04.15(화) 05:00]]></content:encoded>
+            <title><![CDATA[​2025 가족뮤지컬 <꼬마버스 타요 – 소원을 들어주는 요술 지팡이 대소동> - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61855</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61855</guid>
+            <pubDate>Tue, 15 Apr 2025 08:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.21(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  이은결 < BEYOND MAGIC > - 울진 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -494,20 +508,6 @@
             <link>http://m.ticketlink.co.kr/help/notice/61842</link>
             <guid>http://m.ticketlink.co.kr/help/notice/61842</guid>
             <pubDate>Mon, 14 Apr 2025 00:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.15(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 트리오 인피니티 내한공연-광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61841</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61841</guid>
-            <pubDate>Fri, 11 Apr 2025 10:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.14(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025 임창정 30주년 <촌스러운 콘서트> - 서울​​​​ 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61840</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61840</guid>
-            <pubDate>Fri, 11 Apr 2025 09:10:42 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.15(화) 05:00]]></content:encoded>
         </item>
     </channel>
